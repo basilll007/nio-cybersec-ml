@@ -1,0 +1,22 @@
+# data and large artifacts (never commit)
+data/
+frames/
+*.mp4
+*.avi
+*.zip
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+# secrets
+.env
+kaggle.json
+**/kaggle.json
+*.token
+# environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+logs/

@@ -1,0 +1,11 @@
+# Python 3.12. CUDA build of PyTorch (RTX 50-series / sm_120 needs cu128); CPU-only also works.
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch==2.11.0+cu128
+numpy==2.5.4
+pandas==3.1.1
+scikit-learn==1.9.1
+scipy==1.18.1
+matplotlib==3.11.2
+datasets==5.2.0
+huggingface-hub==2.4.0
+pyarrow==26.0.1
