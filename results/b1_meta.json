@@ -1,0 +1,102 @@
+{
+  "config": {
+    "lr_inner": 0.5,
+    "nio_lr": 0.1,
+    "nio_iters": 300,
+    "P_binary": [
+      2,
+      4,
+      8,
+      16,
+      32,
+      64
+    ],
+    "P_4class": [
+      4,
+      8,
+      16,
+      32,
+      64
+    ],
+    "T_values": [
+      10,
+      20,
+      40
+    ],
+    "T_main": 20,
+    "primer_init": "N(0, I) in standardised feature space",
+    "nn_test": "DCR: fixed train reference subset S with |S| = |held-out test set|",
+    "memorised_control_noise_sd": [
+      0.005,
+      0.05
+    ],
+    "n_control_rows": 64,
+    "split": "group",
+    "device_nio": "cpu"
+  },
+  "timing": [
+    {
+      "task": "4class",
+      "T": 20,
+      "nio_seconds_mean_over_P": 6.415043806664956,
+      "nio_seconds_by_P": {
+        "4": 5.775968800007831,
+        "8": 5.862737899995409,
+        "16": 6.426158066664357,
+        "32": 6.6311299999943,
+        "64": 7.379224266662884
+      },
+      "reference_fullbatch_T_steps_seconds": 0.30631610000273213,
+      "a1_mlp_adam_training_seconds_gpu": 4.000485766659646
+    },
+    {
+      "task": "binary",
+      "T": 10,
+      "nio_seconds_mean_over_P": 3.5843896944489746,
+      "nio_seconds_by_P": {
+        "2": 3.475872833339963,
+        "4": 3.5366551666520536,
+        "8": 3.6670721333357506,
+        "16": 3.4616115000098944,
+        "32": 3.614214666672827,
+        "64": 3.750911866683358
+      },
+      "reference_fullbatch_T_steps_seconds": 0.16321796665821844,
+      "a1_mlp_adam_training_seconds_gpu": 4.000485766659646
+    },
+    {
+      "task": "binary",
+      "T": 20,
+      "nio_seconds_mean_over_P": 7.042008627778462,
+      "nio_seconds_by_P": {
+        "2": 6.326002266665455,
+        "4": 6.366269866664273,
+        "8": 6.003392466673783,
+        "16": 7.740863766676436,
+        "32": 7.960046999990785,
+        "64": 7.855476400000043
+      },
+      "reference_fullbatch_T_steps_seconds": 0.3305004999662439,
+      "a1_mlp_adam_training_seconds_gpu": 4.000485766659646
+    },
+    {
+      "task": "binary",
+      "T": 40,
+      "nio_seconds_mean_over_P": 13.988906255564265,
+      "nio_seconds_by_P": {
+        "2": 13.48166140000103,
+        "4": 13.597073066688608,
+        "8": 14.015034600005796,
+        "16": 15.013752766671436,
+        "32": 14.401725400006399,
+        "64": 13.424190300012318
+      },
+      "reference_fullbatch_T_steps_seconds": 0.6785074333505084,
+      "a1_mlp_adam_training_seconds_gpu": 4.000485766659646
+    }
+  ],
+  "pca_explained_variance": [
+    0.3286515772342682,
+    0.21980729699134827
+  ]
+}

@@ -1,0 +1,3642 @@
+[
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 10,
+    "P": 2,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.1451944261789322,
+      0.2336449772119522
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.27991417050361633,
+        "top_overlap": 4,
+        "top_k": 15,
+        "spearman_absdiff": -0.14155212157431912,
+        "sign_agreement_on_real_top": 0.6666666666666666,
+        "recovered_top_features": [
+          "handles.nsection",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.27991417050361633,
+    "top_overlap_mean": 4.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 10,
+    "P": 4,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.5842115879058838,
+      0.36558809876441956
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.648411214351654,
+        "top_overlap": 9,
+        "top_k": 15,
+        "spearman_absdiff": 0.39161615299240154,
+        "sign_agreement_on_real_top": 0.9333333333333333,
+        "recovered_top_features": [
+          "handles.nsection",
+          "handles.nmutant",
+          "handles.nhandles",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "handles.nfile",
+          "svcscan.process_services",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.648411214351654,
+    "top_overlap_mean": 9.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 10,
+    "P": 8,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.6264462471008301,
+      0.49759143590927124
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.8124159574508667,
+        "top_overlap": 13,
+        "top_k": 15,
+        "spearman_absdiff": 0.5971996926491931,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "handles.nfile",
+          "svcscan.process_services",
+          "handles.nsemaphore",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.8124159574508667,
+    "top_overlap_mean": 13.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 10,
+    "P": 16,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.8029735684394836,
+      0.4992316663265228
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.8396844267845154,
+        "top_overlap": 13,
+        "top_k": 15,
+        "spearman_absdiff": 0.5678306155553658,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "dlllist.avg_dlls_per_proc",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nhandles",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "handles.nfile",
+          "svcscan.process_services",
+          "handles.nsemaphore",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.8396844267845154,
+    "top_overlap_mean": 13.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 10,
+    "P": 32,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.8257853984832764,
+      0.6987101435661316
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.8895525336265564,
+        "top_overlap": 12,
+        "top_k": 15,
+        "spearman_absdiff": 0.7058823529411764,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "ldrmodules.not_in_load",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "handles.nfile",
+          "svcscan.process_services",
+          "handles.nsemaphore"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.8895525336265564,
+    "top_overlap_mean": 12.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 10,
+    "P": 64,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.8422427177429199,
+      0.6876512765884399
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.9295332431793213,
+        "top_overlap": 13,
+        "top_k": 15,
+        "spearman_absdiff": 0.7458379578246392,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "dlllist.avg_dlls_per_proc",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.nfile",
+          "svcscan.process_services",
+          "handles.nsemaphore"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9295332431793213,
+    "top_overlap_mean": 13.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 20,
+    "P": 2,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.25725099444389343,
+      0.31403014063835144
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.4261418879032135,
+        "top_overlap": 5,
+        "top_k": 15,
+        "spearman_absdiff": -0.01195253137539486,
+        "sign_agreement_on_real_top": 0.8,
+        "recovered_top_features": [
+          "handles.nsection",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.4261418879032135,
+    "top_overlap_mean": 5.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 20,
+    "P": 2,
+    "variant": "soft",
+    "class_mean_cosine": [
+      0.5546486377716064,
+      0.4647149443626404
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.746383547782898,
+        "top_overlap": 9,
+        "top_k": 15,
+        "spearman_absdiff": 0.46853922991547853,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "handles.nevent",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "handles.nfile",
+          "svcscan.process_services",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.746383547782898,
+    "top_overlap_mean": 9.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 20,
+    "P": 4,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.5861284136772156,
+      0.434910386800766
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.7151692509651184,
+        "top_overlap": 9,
+        "top_k": 15,
+        "spearman_absdiff": 0.4652949713992999,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "handles.nmutant",
+          "handles.nevent",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "svcscan.process_services",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.7151692509651184,
+    "top_overlap_mean": 9.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 20,
+    "P": 4,
+    "variant": "soft",
+    "class_mean_cosine": [
+      0.7486909627914429,
+      0.39924052357673645
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.6654289960861206,
+        "top_overlap": 8,
+        "top_k": 15,
+        "spearman_absdiff": 0.3819687526679757,
+        "sign_agreement_on_real_top": 0.9333333333333333,
+        "recovered_top_features": [
+          "handles.nsection",
+          "handles.nevent",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "handles.nfile",
+          "svcscan.process_services",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.6654289960861206,
+    "top_overlap_mean": 8.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 20,
+    "P": 8,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.6141653656959534,
+      0.5700194239616394
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.7854857444763184,
+        "top_overlap": 11,
+        "top_k": 15,
+        "spearman_absdiff": 0.5374370357722188,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "handles.nfile",
+          "svcscan.process_services",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.7854857444763184,
+    "top_overlap_mean": 11.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 20,
+    "P": 8,
+    "variant": "soft",
+    "class_mean_cosine": [
+      0.4240494668483734,
+      0.40084993839263916
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.5832706689834595,
+        "top_overlap": 8,
+        "top_k": 15,
+        "spearman_absdiff": 0.1134636728421412,
+        "sign_agreement_on_real_top": 0.9333333333333333,
+        "recovered_top_features": [
+          "handles.nmutant",
+          "handles.nevent",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "handles.nfile",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.5832706689834595,
+    "top_overlap_mean": 8.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 20,
+    "P": 16,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.7435629367828369,
+      0.45511117577552795
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.7810866236686707,
+        "top_overlap": 12,
+        "top_k": 15,
+        "spearman_absdiff": 0.47101511141466745,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "dlllist.avg_dlls_per_proc",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "handles.nfile",
+          "svcscan.process_services",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.7810866236686707,
+    "top_overlap_mean": 12.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 20,
+    "P": 16,
+    "variant": "soft",
+    "class_mean_cosine": [
+      0.6231487989425659,
+      0.4125250279903412
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.7531894445419312,
+        "top_overlap": 12,
+        "top_k": 15,
+        "spearman_absdiff": 0.3947750362844703,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "dlllist.avg_dlls_per_proc",
+          "handles.nevent",
+          "handles.nhandles",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "handles.nfile",
+          "svcscan.process_services",
+          "handles.nsemaphore",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.7531894445419312,
+    "top_overlap_mean": 12.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 20,
+    "P": 32,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.7796850800514221,
+      0.5946828722953796
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.7941577434539795,
+        "top_overlap": 11,
+        "top_k": 15,
+        "spearman_absdiff": 0.5828566549987193,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "handles.nfile",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.7941577434539795,
+    "top_overlap_mean": 11.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 20,
+    "P": 32,
+    "variant": "soft",
+    "class_mean_cosine": [
+      0.686819314956665,
+      0.4601333439350128
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.7451618909835815,
+        "top_overlap": 11,
+        "top_k": 15,
+        "spearman_absdiff": 0.46606334841628955,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "dlllist.avg_dlls_per_proc",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "handles.nfile",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.7451618909835815,
+    "top_overlap_mean": 11.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 20,
+    "P": 64,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.6069523096084595,
+      0.4766136705875397
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.5819265842437744,
+        "top_overlap": 8,
+        "top_k": 15,
+        "spearman_absdiff": 0.17254332792623578,
+        "sign_agreement_on_real_top": 0.8666666666666667,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nevent",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "handles.nfile",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.5819265842437744,
+    "top_overlap_mean": 8.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 20,
+    "P": 64,
+    "variant": "soft",
+    "class_mean_cosine": [
+      0.5244542956352234,
+      0.29100286960601807
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.49127283692359924,
+        "top_overlap": 8,
+        "top_k": 15,
+        "spearman_absdiff": 0.1539315290702638,
+        "sign_agreement_on_real_top": 0.8,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nevent",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "handles.nfile",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.49127283692359924,
+    "top_overlap_mean": 8.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 40,
+    "P": 2,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.36497965455055237,
+      0.4395764470100403
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.5674861073493958,
+        "top_overlap": 6,
+        "top_k": 15,
+        "spearman_absdiff": 0.21702381968752665,
+        "sign_agreement_on_real_top": 0.8666666666666667,
+        "recovered_top_features": [
+          "handles.nsection",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.5674861073493958,
+    "top_overlap_mean": 6.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 40,
+    "P": 4,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.5894578099250793,
+      0.522403359413147
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.7240046858787537,
+        "top_overlap": 10,
+        "top_k": 15,
+        "spearman_absdiff": 0.4982498079057457,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "svcscan.process_services",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.7240046858787537,
+    "top_overlap_mean": 10.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 40,
+    "P": 8,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.6204430460929871,
+      0.5707162618637085
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.7877860069274902,
+        "top_overlap": 11,
+        "top_k": 15,
+        "spearman_absdiff": 0.5896012977034064,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "svcscan.process_services",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.7877860069274902,
+    "top_overlap_mean": 11.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 40,
+    "P": 16,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.7506392598152161,
+      0.43024638295173645
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.7672473788261414,
+        "top_overlap": 12,
+        "top_k": 15,
+        "spearman_absdiff": 0.4454879194057884,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "dlllist.avg_dlls_per_proc",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "handles.nfile",
+          "svcscan.process_services",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.7672473788261414,
+    "top_overlap_mean": 12.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 40,
+    "P": 32,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.785922646522522,
+      0.5803816914558411
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.8018921613693237,
+        "top_overlap": 11,
+        "top_k": 15,
+        "spearman_absdiff": 0.6299837787074191,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "handles.nfile",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.8018921613693237,
+    "top_overlap_mean": 11.0
+  },
+  {
+    "seed": 0,
+    "task": "binary",
+    "T": 40,
+    "P": 64,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.6194646954536438,
+      0.503899335861206
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.6007572412490845,
+        "top_overlap": 8,
+        "top_k": 15,
+        "spearman_absdiff": 0.1788610945103731,
+        "sign_agreement_on_real_top": 0.8666666666666667,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nevent",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "handles.nfile",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.6007572412490845,
+    "top_overlap_mean": 8.0
+  },
+  {
+    "seed": 0,
+    "task": "4class",
+    "T": 20,
+    "P": 4,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.9057222604751587,
+      0.4316178560256958,
+      0.31365102529525757,
+      0.45315876603126526
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.6335785984992981,
+        "top_overlap": 6,
+        "top_k": 15,
+        "spearman_absdiff": 0.41142320498591306,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nmutant",
+          "handles.nevent",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_mem",
+          "handles.nkey"
+        ]
+      },
+      {
+        "class": 2,
+        "diff_cosine": 0.5168424844741821,
+        "top_overlap": 8,
+        "top_k": 15,
+        "spearman_absdiff": 0.2378553743703577,
+        "sign_agreement_on_real_top": 0.9333333333333333,
+        "recovered_top_features": [
+          "handles.nsection",
+          "handles.nevent",
+          "handles.nmutant",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "handles.nkey",
+          "handles.nfile"
+        ]
+      },
+      {
+        "class": 3,
+        "diff_cosine": 0.655065655708313,
+        "top_overlap": 7,
+        "top_k": 15,
+        "spearman_absdiff": 0.4050200631776658,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nhandles",
+          "handles.nfile",
+          "pslist.avg_threads",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.601828912893931,
+    "top_overlap_mean": 7.0
+  },
+  {
+    "seed": 0,
+    "task": "4class",
+    "T": 20,
+    "P": 8,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.6872600317001343,
+      0.700128436088562,
+      0.3507789075374603,
+      0.3961121141910553
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.7356817722320557,
+        "top_overlap": 9,
+        "top_k": 15,
+        "spearman_absdiff": 0.48168701442841283,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_mem",
+          "svcscan.process_services",
+          "handles.nkey"
+        ]
+      },
+      {
+        "class": 2,
+        "diff_cosine": 0.565476655960083,
+        "top_overlap": 8,
+        "top_k": 15,
+        "spearman_absdiff": 0.19892427217621445,
+        "sign_agreement_on_real_top": 0.9333333333333333,
+        "recovered_top_features": [
+          "handles.nevent",
+          "handles.nthread",
+          "handles.nmutant",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "handles.nsemaphore",
+          "handles.nkey",
+          "handles.nfile"
+        ]
+      },
+      {
+        "class": 3,
+        "diff_cosine": 0.7897219061851501,
+        "top_overlap": 12,
+        "top_k": 15,
+        "spearman_absdiff": 0.7103218645948944,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "dlllist.avg_dlls_per_proc",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nhandles",
+          "handles.nevent",
+          "handles.nfile",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "svcscan.process_services",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.6969601114590963,
+    "top_overlap_mean": 9.666666666666666
+  },
+  {
+    "seed": 0,
+    "task": "4class",
+    "T": 20,
+    "P": 16,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.7193368673324585,
+      0.45537981390953064,
+      0.49186834692955017,
+      0.39304572343826294
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.6427667737007141,
+        "top_overlap": 8,
+        "top_k": 15,
+        "spearman_absdiff": 0.274310595065312,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nmutant",
+          "handles.nevent",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "svcscan.process_services"
+        ]
+      },
+      {
+        "class": 2,
+        "diff_cosine": 0.694154679775238,
+        "top_overlap": 9,
+        "top_k": 15,
+        "spearman_absdiff": 0.3401348928540937,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "handles.nevent",
+          "handles.nthread",
+          "handles.nmutant",
+          "dlllist.ndlls",
+          "handles.ntimer",
+          "handles.nsemaphore",
+          "svcscan.process_services",
+          "handles.nkey"
+        ]
+      },
+      {
+        "class": 3,
+        "diff_cosine": 0.7055781483650208,
+        "top_overlap": 8,
+        "top_k": 15,
+        "spearman_absdiff": 0.492871168786818,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nfile",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "handles.ntimer",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.6808332006136576,
+    "top_overlap_mean": 8.333333333333334
+  },
+  {
+    "seed": 0,
+    "task": "4class",
+    "T": 20,
+    "P": 32,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.5991778373718262,
+      -0.021500935778021812,
+      0.2557443380355835,
+      0.3929363787174225
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.20185919106006622,
+        "top_overlap": 5,
+        "top_k": 15,
+        "spearman_absdiff": -0.0337232135234355,
+        "sign_agreement_on_real_top": 0.7333333333333333,
+        "recovered_top_features": [
+          "handles.nsection",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_mem",
+          "svcscan.process_services",
+          "handles.nkey"
+        ]
+      },
+      {
+        "class": 2,
+        "diff_cosine": 0.6525060534477234,
+        "top_overlap": 10,
+        "top_k": 15,
+        "spearman_absdiff": 0.3158029539827542,
+        "sign_agreement_on_real_top": 0.9333333333333333,
+        "recovered_top_features": [
+          "handles.nsection",
+          "dlllist.avg_dlls_per_proc",
+          "handles.nthread",
+          "handles.nmutant",
+          "ldrmodules.not_in_load",
+          "handles.ntimer",
+          "svcscan.process_services",
+          "handles.nkey",
+          "pslist.avg_threads",
+          "handles.nfile"
+        ]
+      },
+      {
+        "class": 3,
+        "diff_cosine": 0.6345258355140686,
+        "top_overlap": 8,
+        "top_k": 15,
+        "spearman_absdiff": 0.4330231366857338,
+        "sign_agreement_on_real_top": 0.8666666666666667,
+        "recovered_top_features": [
+          "handles.nsection",
+          "dlllist.avg_dlls_per_proc",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nfile",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.49629702667395276,
+    "top_overlap_mean": 7.666666666666667
+  },
+  {
+    "seed": 0,
+    "task": "4class",
+    "T": 20,
+    "P": 64,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.7969467043876648,
+      0.6844283938407898,
+      0.6538532376289368,
+      0.5804282426834106
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.817182183265686,
+        "top_overlap": 9,
+        "top_k": 15,
+        "spearman_absdiff": 0.7014428412874583,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nmutant",
+          "handles.nevent",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "handles.nsemaphore"
+        ]
+      },
+      {
+        "class": 2,
+        "diff_cosine": 0.8804646730422974,
+        "top_overlap": 12,
+        "top_k": 15,
+        "spearman_absdiff": 0.8073081191838128,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nevent",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "handles.nsemaphore",
+          "svcscan.process_services",
+          "pslist.avg_threads"
+        ]
+      },
+      {
+        "class": 3,
+        "diff_cosine": 0.7745638489723206,
+        "top_overlap": 9,
+        "top_k": 15,
+        "spearman_absdiff": 0.6369845470844361,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "dlllist.avg_dlls_per_proc",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nhandles",
+          "handles.nevent",
+          "dlllist.ndlls",
+          "pslist.avg_threads",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.8240702350934347,
+    "top_overlap_mean": 10.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 10,
+    "P": 2,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.9677302837371826,
+      0.9267821311950684
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.9651143550872803,
+        "top_overlap": 12,
+        "top_k": 15,
+        "spearman_absdiff": 0.8494834798941346,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nmutant",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9651143550872803,
+    "top_overlap_mean": 12.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 10,
+    "P": 4,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.9420841336250305,
+      0.4754345715045929
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.7928265929222107,
+        "top_overlap": 11,
+        "top_k": 15,
+        "spearman_absdiff": 0.5855886621702383,
+        "sign_agreement_on_real_top": 0.9333333333333333,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nmutant",
+          "dlllist.ndlls",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "svcscan.process_services",
+          "handles.nsemaphore",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.7928265929222107,
+    "top_overlap_mean": 11.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 10,
+    "P": 8,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.8480587601661682,
+      0.9004994034767151
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.9155076146125793,
+        "top_overlap": 10,
+        "top_k": 15,
+        "spearman_absdiff": 0.874327670110134,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nmutant",
+          "handles.nhandles",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9155076146125793,
+    "top_overlap_mean": 10.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 10,
+    "P": 16,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.9073522686958313,
+      0.8703372478485107
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.9350641965866089,
+        "top_overlap": 12,
+        "top_k": 15,
+        "spearman_absdiff": 0.8377870741910697,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nmutant",
+          "handles.nhandles",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "svcscan.process_services",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9350641965866089,
+    "top_overlap_mean": 12.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 10,
+    "P": 32,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.888765811920166,
+      0.74517822265625
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.9416103959083557,
+        "top_overlap": 12,
+        "top_k": 15,
+        "spearman_absdiff": 0.8109792538205413,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nmutant",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9416103959083557,
+    "top_overlap_mean": 12.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 10,
+    "P": 64,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.8607649207115173,
+      0.8038743734359741
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.9457998275756836,
+        "top_overlap": 14,
+        "top_k": 15,
+        "spearman_absdiff": 0.8325791855203619,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nmutant",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "handles.nfile",
+          "svcscan.process_services",
+          "handles.nsemaphore",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9457998275756836,
+    "top_overlap_mean": 14.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 20,
+    "P": 2,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.9305565357208252,
+      0.826335072517395
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.9130524396896362,
+        "top_overlap": 11,
+        "top_k": 15,
+        "spearman_absdiff": 0.7194570135746605,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nmutant",
+          "handles.nhandles",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9130524396896362,
+    "top_overlap_mean": 11.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 20,
+    "P": 2,
+    "variant": "soft",
+    "class_mean_cosine": [
+      0.9318088889122009,
+      0.8401935696601868
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.9193200469017029,
+        "top_overlap": 11,
+        "top_k": 15,
+        "spearman_absdiff": 0.7678647656450097,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nmutant",
+          "handles.nhandles",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9193200469017029,
+    "top_overlap_mean": 11.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 20,
+    "P": 4,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.9062718152999878,
+      0.8344767689704895
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.9052066206932068,
+        "top_overlap": 11,
+        "top_k": 15,
+        "spearman_absdiff": 0.7182617604371212,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nmutant",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "svcscan.process_services",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9052066206932068,
+    "top_overlap_mean": 11.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 20,
+    "P": 4,
+    "variant": "soft",
+    "class_mean_cosine": [
+      0.932505190372467,
+      0.44126367568969727
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.8462479114532471,
+        "top_overlap": 11,
+        "top_k": 15,
+        "spearman_absdiff": 0.6240928882438316,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nhandles",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "handles.ntimer",
+          "svcscan.process_services",
+          "handles.nsemaphore",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.8462479114532471,
+    "top_overlap_mean": 11.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 20,
+    "P": 8,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.7859516143798828,
+      0.8012446165084839
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.860946536064148,
+        "top_overlap": 11,
+        "top_k": 15,
+        "spearman_absdiff": 0.7431913258772304,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nmutant",
+          "handles.nhandles",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.860946536064148,
+    "top_overlap_mean": 11.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 20,
+    "P": 8,
+    "variant": "soft",
+    "class_mean_cosine": [
+      0.6878272891044617,
+      0.5475433468818665
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.7882432341575623,
+        "top_overlap": 9,
+        "top_k": 15,
+        "spearman_absdiff": 0.6215316315205328,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nmutant",
+          "handles.nhandles",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "svcscan.process_services",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.7882432341575623,
+    "top_overlap_mean": 9.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 20,
+    "P": 16,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.838101327419281,
+      0.7642505764961243
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.8773661255836487,
+        "top_overlap": 11,
+        "top_k": 15,
+        "spearman_absdiff": 0.7166396311790318,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nmutant",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "svcscan.process_services",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.8773661255836487,
+    "top_overlap_mean": 11.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 20,
+    "P": 16,
+    "variant": "soft",
+    "class_mean_cosine": [
+      0.7281323671340942,
+      0.7058044075965881
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.8833252787590027,
+        "top_overlap": 12,
+        "top_k": 15,
+        "spearman_absdiff": 0.7419106975155808,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nmutant",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "svcscan.process_services",
+          "handles.nsemaphore",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.8833252787590027,
+    "top_overlap_mean": 12.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 20,
+    "P": 32,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.7658141851425171,
+      0.7424187660217285
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.8094356060028076,
+        "top_overlap": 10,
+        "top_k": 15,
+        "spearman_absdiff": 0.6392043029112952,
+        "sign_agreement_on_real_top": 0.9333333333333333,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nmutant",
+          "handles.nhandles",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.8094356060028076,
+    "top_overlap_mean": 10.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 20,
+    "P": 32,
+    "variant": "soft",
+    "class_mean_cosine": [
+      0.6188694834709167,
+      0.5637620687484741
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.7551054358482361,
+        "top_overlap": 10,
+        "top_k": 15,
+        "spearman_absdiff": 0.5436694271322462,
+        "sign_agreement_on_real_top": 0.9333333333333333,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nmutant",
+          "handles.nhandles",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.7551054358482361,
+    "top_overlap_mean": 10.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 20,
+    "P": 64,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.767650842666626,
+      0.7239297032356262
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.780957043170929,
+        "top_overlap": 10,
+        "top_k": 15,
+        "spearman_absdiff": 0.542132673098267,
+        "sign_agreement_on_real_top": 0.9333333333333333,
+        "recovered_top_features": [
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nmutant",
+          "handles.nhandles",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "svcscan.process_services",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.780957043170929,
+    "top_overlap_mean": 10.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 20,
+    "P": 64,
+    "variant": "soft",
+    "class_mean_cosine": [
+      0.636690080165863,
+      0.6051656603813171
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.7870274186134338,
+        "top_overlap": 9,
+        "top_k": 15,
+        "spearman_absdiff": 0.544010928028686,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nmutant",
+          "handles.nhandles",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "handles.ntimer",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.7870274186134338,
+    "top_overlap_mean": 9.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 40,
+    "P": 2,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.8974185585975647,
+      0.718699038028717
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.8736381530761719,
+        "top_overlap": 11,
+        "top_k": 15,
+        "spearman_absdiff": 0.6935883206693417,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nmutant",
+          "handles.nhandles",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "svcscan.process_services",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.8736381530761719,
+    "top_overlap_mean": 11.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 40,
+    "P": 4,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.7864988446235657,
+      0.54733806848526
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.796894371509552,
+        "top_overlap": 9,
+        "top_k": 15,
+        "spearman_absdiff": 0.6272517715359003,
+        "sign_agreement_on_real_top": 0.9333333333333333,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nevent",
+          "handles.nmutant",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "svcscan.process_services",
+          "handles.nsemaphore",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.796894371509552,
+    "top_overlap_mean": 9.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 40,
+    "P": 8,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.7079002261161804,
+      0.6974003911018372
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.8055286407470703,
+        "top_overlap": 9,
+        "top_k": 15,
+        "spearman_absdiff": 0.6683172543327927,
+        "sign_agreement_on_real_top": 0.9333333333333333,
+        "recovered_top_features": [
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nmutant",
+          "handles.nhandles",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "svcscan.process_services",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.8055286407470703,
+    "top_overlap_mean": 9.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 40,
+    "P": 16,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.810062825679779,
+      0.7264643907546997
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.8546075224876404,
+        "top_overlap": 12,
+        "top_k": 15,
+        "spearman_absdiff": 0.7432767011013405,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nmutant",
+          "handles.nhandles",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "svcscan.process_services",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.8546075224876404,
+    "top_overlap_mean": 12.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 40,
+    "P": 32,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.6525475978851318,
+      0.5816752314567566
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.6609696745872498,
+        "top_overlap": 9,
+        "top_k": 15,
+        "spearman_absdiff": 0.4880047810125502,
+        "sign_agreement_on_real_top": 0.8666666666666667,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nmutant",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.6609696745872498,
+    "top_overlap_mean": 9.0
+  },
+  {
+    "seed": 1,
+    "task": "binary",
+    "T": 40,
+    "P": 64,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.5691642761230469,
+      0.5322712063789368
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.5812403559684753,
+        "top_overlap": 8,
+        "top_k": 15,
+        "spearman_absdiff": 0.3343293776146162,
+        "sign_agreement_on_real_top": 0.9333333333333333,
+        "recovered_top_features": [
+          "handles.nevent",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "svcscan.process_services",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.5812403559684753,
+    "top_overlap_mean": 8.0
+  },
+  {
+    "seed": 1,
+    "task": "4class",
+    "T": 20,
+    "P": 4,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.9152454137802124,
+      0.022965824231505394,
+      0.48952049016952515,
+      0.23021277785301208
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.391187846660614,
+        "top_overlap": 6,
+        "top_k": 15,
+        "spearman_absdiff": 0.37923674549645686,
+        "sign_agreement_on_real_top": 0.7333333333333333,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nevent",
+          "dlllist.ndlls",
+          "ldrmodules.not_in_init"
+        ]
+      },
+      {
+        "class": 2,
+        "diff_cosine": 0.7048911452293396,
+        "top_overlap": 7,
+        "top_k": 15,
+        "spearman_absdiff": 0.31341244770767523,
+        "sign_agreement_on_real_top": 0.9333333333333333,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nevent",
+          "handles.nthread",
+          "handles.nhandles",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads"
+        ]
+      },
+      {
+        "class": 3,
+        "diff_cosine": 0.7357367277145386,
+        "top_overlap": 9,
+        "top_k": 15,
+        "spearman_absdiff": 0.6384359258943054,
+        "sign_agreement_on_real_top": 0.9333333333333333,
+        "recovered_top_features": [
+          "handles.nsection",
+          "dlllist.avg_dlls_per_proc",
+          "handles.nhandles",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "svcscan.process_services",
+          "handles.nsemaphore",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.6106052398681641,
+    "top_overlap_mean": 7.333333333333333
+  },
+  {
+    "seed": 1,
+    "task": "4class",
+    "T": 20,
+    "P": 8,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.713847815990448,
+      0.5583689212799072,
+      0.014443615451455116,
+      0.22376088798046112
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.7687294483184814,
+        "top_overlap": 10,
+        "top_k": 15,
+        "spearman_absdiff": 0.47075898574233754,
+        "sign_agreement_on_real_top": 0.8666666666666667,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nhandles",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "svcscan.process_services",
+          "ldrmodules.not_in_init"
+        ]
+      },
+      {
+        "class": 2,
+        "diff_cosine": 0.3916240930557251,
+        "top_overlap": 4,
+        "top_k": 15,
+        "spearman_absdiff": 0.1322462221463331,
+        "sign_agreement_on_real_top": 0.8666666666666667,
+        "recovered_top_features": [
+          "handles.nthread",
+          "handles.nhandles",
+          "handles.nsemaphore",
+          "pslist.avg_threads"
+        ]
+      },
+      {
+        "class": 3,
+        "diff_cosine": 0.5570667386054993,
+        "top_overlap": 7,
+        "top_k": 15,
+        "spearman_absdiff": 0.24545376931614446,
+        "sign_agreement_on_real_top": 0.9333333333333333,
+        "recovered_top_features": [
+          "handles.nevent",
+          "handles.nhandles",
+          "handles.nfile",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "handles.nsemaphore",
+          "handles.nkey"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.572473426659902,
+    "top_overlap_mean": 7.0
+  },
+  {
+    "seed": 1,
+    "task": "4class",
+    "T": 20,
+    "P": 16,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.6356717944145203,
+      0.20268940925598145,
+      -0.03818585351109505,
+      0.13382413983345032
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.5509607791900635,
+        "top_overlap": 6,
+        "top_k": 15,
+        "spearman_absdiff": 0.23085460599334073,
+        "sign_agreement_on_real_top": 0.8666666666666667,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nevent",
+          "handles.nhandles",
+          "ldrmodules.not_in_mem",
+          "handles.nsemaphore",
+          "ldrmodules.not_in_init"
+        ]
+      },
+      {
+        "class": 2,
+        "diff_cosine": 0.348163366317749,
+        "top_overlap": 4,
+        "top_k": 15,
+        "spearman_absdiff": -0.1273798343720652,
+        "sign_agreement_on_real_top": 0.5333333333333333,
+        "recovered_top_features": [
+          "handles.nevent",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "ldrmodules.not_in_mem"
+        ]
+      },
+      {
+        "class": 3,
+        "diff_cosine": 0.5700148344039917,
+        "top_overlap": 5,
+        "top_k": 15,
+        "spearman_absdiff": 0.21437718774011782,
+        "sign_agreement_on_real_top": 0.8666666666666667,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nevent",
+          "handles.nfile",
+          "pslist.avg_threads",
+          "handles.ntimer"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.48971299330393475,
+    "top_overlap_mean": 5.0
+  },
+  {
+    "seed": 1,
+    "task": "4class",
+    "T": 20,
+    "P": 32,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.837101399898529,
+      0.3433491587638855,
+      0.2297087460756302,
+      0.3383546769618988
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.7132949233055115,
+        "top_overlap": 10,
+        "top_k": 15,
+        "spearman_absdiff": 0.55792708955861,
+        "sign_agreement_on_real_top": 0.9333333333333333,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "ldrmodules.not_in_init"
+        ]
+      },
+      {
+        "class": 2,
+        "diff_cosine": 0.6112781167030334,
+        "top_overlap": 6,
+        "top_k": 15,
+        "spearman_absdiff": 0.15785878937932213,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nevent",
+          "handles.nthread",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem"
+        ]
+      },
+      {
+        "class": 3,
+        "diff_cosine": 0.7095463275909424,
+        "top_overlap": 8,
+        "top_k": 15,
+        "spearman_absdiff": 0.29206864168018437,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nhandles",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "handles.ntimer",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.6780397891998291,
+    "top_overlap_mean": 8.0
+  },
+  {
+    "seed": 1,
+    "task": "4class",
+    "T": 20,
+    "P": 64,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.6938393115997314,
+      0.32250869274139404,
+      0.290571004152298,
+      0.19524550437927246
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.7730432152748108,
+        "top_overlap": 8,
+        "top_k": 15,
+        "spearman_absdiff": 0.4886024075813199,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nthread",
+          "handles.nevent",
+          "handles.nhandles",
+          "pslist.avg_threads",
+          "dlllist.ndlls",
+          "ldrmodules.not_in_mem",
+          "ldrmodules.not_in_init"
+        ]
+      },
+      {
+        "class": 2,
+        "diff_cosine": 0.7045720815658569,
+        "top_overlap": 7,
+        "top_k": 15,
+        "spearman_absdiff": 0.3163152053274139,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nevent",
+          "handles.nthread",
+          "dlllist.ndlls",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads"
+        ]
+      },
+      {
+        "class": 3,
+        "diff_cosine": 0.47635573148727417,
+        "top_overlap": 6,
+        "top_k": 15,
+        "spearman_absdiff": 0.17894646973448303,
+        "sign_agreement_on_real_top": 0.8,
+        "recovered_top_features": [
+          "handles.nsection",
+          "dlllist.ndlls",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.651323676109314,
+    "top_overlap_mean": 7.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 10,
+    "P": 2,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.9678816795349121,
+      0.9476884007453918
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.9745671153068542,
+        "top_overlap": 12,
+        "top_k": 15,
+        "spearman_absdiff": 0.8472637240672757,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "handles.avg_handles_per_proc",
+          "pslist.avg_handlers",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9745671153068542,
+    "top_overlap_mean": 12.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 10,
+    "P": 4,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.9763429164886475,
+      0.792720377445221
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.9240162372589111,
+        "top_overlap": 11,
+        "top_k": 15,
+        "spearman_absdiff": 0.757961239648254,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.avg_handles_per_proc",
+          "pslist.avg_handlers",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.nfile",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9240162372589111,
+    "top_overlap_mean": 11.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 10,
+    "P": 8,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.9727903008460999,
+      0.8251134157180786
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.9373627305030823,
+        "top_overlap": 12,
+        "top_k": 15,
+        "spearman_absdiff": 0.8424827115171177,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "handles.avg_handles_per_proc",
+          "pslist.avg_handlers",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9373627305030823,
+    "top_overlap_mean": 12.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 10,
+    "P": 16,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.9751636981964111,
+      0.9219187498092651
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.9705402255058289,
+        "top_overlap": 14,
+        "top_k": 15,
+        "spearman_absdiff": 0.8617775121659693,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "handles.avg_handles_per_proc",
+          "pslist.avg_handlers",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.nfile",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9705402255058289,
+    "top_overlap_mean": 14.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 10,
+    "P": 32,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.9246175289154053,
+      0.7309790253639221
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.9431958198547363,
+        "top_overlap": 13,
+        "top_k": 15,
+        "spearman_absdiff": 0.8103816272517715,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "handles.avg_handles_per_proc",
+          "pslist.avg_handlers",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9431958198547363,
+    "top_overlap_mean": 13.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 10,
+    "P": 64,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.9336168766021729,
+      0.6871050596237183
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.9499492049217224,
+        "top_overlap": 13,
+        "top_k": 15,
+        "spearman_absdiff": 0.8599846324596601,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "handles.avg_handles_per_proc",
+          "pslist.avg_handlers",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9499492049217224,
+    "top_overlap_mean": 13.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 20,
+    "P": 2,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.9328360557556152,
+      0.9006009101867676
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.9460253119468689,
+        "top_overlap": 12,
+        "top_k": 15,
+        "spearman_absdiff": 0.7979168445317169,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "handles.avg_handles_per_proc",
+          "pslist.avg_handlers",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9460253119468689,
+    "top_overlap_mean": 12.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 20,
+    "P": 2,
+    "variant": "soft",
+    "class_mean_cosine": [
+      0.9315307140350342,
+      0.8946086168289185
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.945192813873291,
+        "top_overlap": 12,
+        "top_k": 15,
+        "spearman_absdiff": 0.8034662340988644,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "handles.avg_handles_per_proc",
+          "pslist.avg_handlers",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.945192813873291,
+    "top_overlap_mean": 12.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 20,
+    "P": 4,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.928210437297821,
+      0.7086098194122314
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.853206992149353,
+        "top_overlap": 10,
+        "top_k": 15,
+        "spearman_absdiff": 0.6408264321693844,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nmutant",
+          "handles.nevent",
+          "dlllist.ndlls",
+          "handles.avg_handles_per_proc",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.853206992149353,
+    "top_overlap_mean": 10.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 20,
+    "P": 4,
+    "variant": "soft",
+    "class_mean_cosine": [
+      0.9148808717727661,
+      0.5130994319915771
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.812951922416687,
+        "top_overlap": 10,
+        "top_k": 15,
+        "spearman_absdiff": 0.4705028600700077,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "handles.avg_handles_per_proc",
+          "pslist.avg_handlers",
+          "ldrmodules.not_in_load",
+          "pslist.avg_threads",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.812951922416687,
+    "top_overlap_mean": 10.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 20,
+    "P": 8,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.9182976484298706,
+      0.6633040904998779
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.8357073068618774,
+        "top_overlap": 9,
+        "top_k": 15,
+        "spearman_absdiff": 0.6036882096815505,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "handles.avg_handles_per_proc",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.8357073068618774,
+    "top_overlap_mean": 9.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 20,
+    "P": 8,
+    "variant": "soft",
+    "class_mean_cosine": [
+      0.8928059935569763,
+      0.8495426177978516
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.9445802569389343,
+        "top_overlap": 11,
+        "top_k": 15,
+        "spearman_absdiff": 0.7846836847946727,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "handles.avg_handles_per_proc",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9445802569389343,
+    "top_overlap_mean": 11.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 20,
+    "P": 16,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.94816654920578,
+      0.806977391242981
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.9329307675361633,
+        "top_overlap": 14,
+        "top_k": 15,
+        "spearman_absdiff": 0.8338598138820114,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "handles.avg_handles_per_proc",
+          "pslist.avg_handlers",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9329307675361633,
+    "top_overlap_mean": 14.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 20,
+    "P": 16,
+    "variant": "soft",
+    "class_mean_cosine": [
+      0.9244922995567322,
+      0.8237794637680054
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.9487624168395996,
+        "top_overlap": 12,
+        "top_k": 15,
+        "spearman_absdiff": 0.8096986254588918,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "handles.avg_handles_per_proc",
+          "pslist.avg_handlers",
+          "ldrmodules.not_in_load",
+          "pslist.avg_threads",
+          "handles.nfile",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9487624168395996,
+    "top_overlap_mean": 12.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 20,
+    "P": 32,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.8851994276046753,
+      0.5889633893966675
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.922396183013916,
+        "top_overlap": 12,
+        "top_k": 15,
+        "spearman_absdiff": 0.7936480833262187,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "handles.avg_handles_per_proc",
+          "pslist.avg_handlers",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.922396183013916,
+    "top_overlap_mean": 12.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 20,
+    "P": 32,
+    "variant": "soft",
+    "class_mean_cosine": [
+      0.8155251145362854,
+      0.7649480700492859
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.9543463587760925,
+        "top_overlap": 12,
+        "top_k": 15,
+        "spearman_absdiff": 0.8212242807137368,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "handles.avg_handles_per_proc",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.nfile",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9543463587760925,
+    "top_overlap_mean": 12.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 20,
+    "P": 64,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.6922218203544617,
+      0.05830898508429527
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.7950292825698853,
+        "top_overlap": 11,
+        "top_k": 15,
+        "spearman_absdiff": 0.7178348843165714,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "handles.avg_handles_per_proc",
+          "pslist.avg_handlers",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.7950292825698853,
+    "top_overlap_mean": 11.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 20,
+    "P": 64,
+    "variant": "soft",
+    "class_mean_cosine": [
+      0.7812678217887878,
+      0.2459982931613922
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.9052906632423401,
+        "top_overlap": 11,
+        "top_k": 15,
+        "spearman_absdiff": 0.8419704601724579,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "dlllist.ndlls",
+          "handles.avg_handles_per_proc",
+          "pslist.avg_handlers",
+          "pslist.avg_threads",
+          "handles.nfile",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9052906632423401,
+    "top_overlap_mean": 11.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 40,
+    "P": 2,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.9067482352256775,
+      0.8418614268302917
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.9192477464675903,
+        "top_overlap": 12,
+        "top_k": 15,
+        "spearman_absdiff": 0.7805856740373944,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "handles.avg_handles_per_proc",
+          "pslist.avg_handlers",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9192477464675903,
+    "top_overlap_mean": 12.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 40,
+    "P": 4,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.9047178030014038,
+      0.752860963344574
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.8827979564666748,
+        "top_overlap": 9,
+        "top_k": 15,
+        "spearman_absdiff": 0.7070776060787158,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "dlllist.ndlls",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.8827979564666748,
+    "top_overlap_mean": 9.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 40,
+    "P": 8,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.8853484392166138,
+      0.6913279891014099
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.8499128222465515,
+        "top_overlap": 10,
+        "top_k": 15,
+        "spearman_absdiff": 0.6274225219841202,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.8499128222465515,
+    "top_overlap_mean": 10.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 40,
+    "P": 16,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.8705006837844849,
+      0.7254157066345215
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.8864573836326599,
+        "top_overlap": 10,
+        "top_k": 15,
+        "spearman_absdiff": 0.7407154443780415,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "ldrmodules.not_in_load",
+          "pslist.avg_threads",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.8864573836326599,
+    "top_overlap_mean": 10.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 40,
+    "P": 32,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.8063685894012451,
+      0.5616885423660278
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.8716052174568176,
+        "top_overlap": 10,
+        "top_k": 15,
+        "spearman_absdiff": 0.7638521301118415,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "dlllist.ndlls",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.8716052174568176,
+    "top_overlap_mean": 10.0
+  },
+  {
+    "seed": 2,
+    "task": "binary",
+    "T": 40,
+    "P": 64,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.7355977296829224,
+      0.4602411687374115
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.8755255937576294,
+        "top_overlap": 11,
+        "top_k": 15,
+        "spearman_absdiff": 0.7093827371296849,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "dlllist.ndlls",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "pslist.avg_threads",
+          "handles.ntimer",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.8755255937576294,
+    "top_overlap_mean": 11.0
+  },
+  {
+    "seed": 2,
+    "task": "4class",
+    "T": 20,
+    "P": 4,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.9141337275505066,
+      0.5679118633270264,
+      0.3017876446247101,
+      0.5078369379043579
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.7407857179641724,
+        "top_overlap": 11,
+        "top_k": 15,
+        "spearman_absdiff": 0.5665499871937164,
+        "sign_agreement_on_real_top": 0.9333333333333333,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "pslist.avg_threads",
+          "handles.avg_handles_per_proc",
+          "pslist.avg_handlers",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "svcscan.process_services"
+        ]
+      },
+      {
+        "class": 2,
+        "diff_cosine": 0.4927654564380646,
+        "top_overlap": 7,
+        "top_k": 15,
+        "spearman_absdiff": 0.23111073166567062,
+        "sign_agreement_on_real_top": 0.8,
+        "recovered_top_features": [
+          "handles.nsection",
+          "handles.nmutant",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "ldrmodules.not_in_load",
+          "svcscan.process_services",
+          "handles.nfile"
+        ]
+      },
+      {
+        "class": 3,
+        "diff_cosine": 0.6486678123474121,
+        "top_overlap": 8,
+        "top_k": 15,
+        "spearman_absdiff": 0.09741313070946811,
+        "sign_agreement_on_real_top": 0.9333333333333333,
+        "recovered_top_features": [
+          "handles.nsection",
+          "handles.nhandles",
+          "handles.avg_handles_per_proc",
+          "pslist.avg_handlers",
+          "pslist.avg_threads",
+          "dlllist.ndlls",
+          "ldrmodules.not_in_load",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.6274063289165497,
+    "top_overlap_mean": 8.666666666666666
+  },
+  {
+    "seed": 2,
+    "task": "4class",
+    "T": 20,
+    "P": 8,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.7225225567817688,
+      0.35108891129493713,
+      0.2551179826259613,
+      0.47569724917411804
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.5689219832420349,
+        "top_overlap": 10,
+        "top_k": 15,
+        "spearman_absdiff": 0.43037650473832495,
+        "sign_agreement_on_real_top": 0.8,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "pslist.avg_threads",
+          "handles.nhandles",
+          "handles.avg_handles_per_proc",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem"
+        ]
+      },
+      {
+        "class": 2,
+        "diff_cosine": 0.5019353032112122,
+        "top_overlap": 3,
+        "top_k": 15,
+        "spearman_absdiff": 0.25749167591564925,
+        "sign_agreement_on_real_top": 0.8666666666666667,
+        "recovered_top_features": [
+          "handles.nsection",
+          "dlllist.avg_dlls_per_proc",
+          "svcscan.process_services"
+        ]
+      },
+      {
+        "class": 3,
+        "diff_cosine": 0.766215980052948,
+        "top_overlap": 10,
+        "top_k": 15,
+        "spearman_absdiff": 0.49423717237257747,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "handles.nmutant",
+          "handles.nhandles",
+          "pslist.avg_handlers",
+          "pslist.avg_threads",
+          "dlllist.ndlls",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.6123577555020651,
+    "top_overlap_mean": 7.666666666666667
+  },
+  {
+    "seed": 2,
+    "task": "4class",
+    "T": 20,
+    "P": 16,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.6852285861968994,
+      0.34662169218063354,
+      0.2977466881275177,
+      0.6777390837669373
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.46669286489486694,
+        "top_overlap": 8,
+        "top_k": 15,
+        "spearman_absdiff": 0.15435840519081362,
+        "sign_agreement_on_real_top": 0.9333333333333333,
+        "recovered_top_features": [
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nevent",
+          "pslist.avg_threads",
+          "handles.avg_handles_per_proc",
+          "pslist.avg_handlers",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem"
+        ]
+      },
+      {
+        "class": 2,
+        "diff_cosine": 0.4691452383995056,
+        "top_overlap": 8,
+        "top_k": 15,
+        "spearman_absdiff": 0.23444036540595917,
+        "sign_agreement_on_real_top": 0.8666666666666667,
+        "recovered_top_features": [
+          "handles.nsection",
+          "dlllist.avg_dlls_per_proc",
+          "handles.nthread",
+          "handles.nmutant",
+          "dlllist.ndlls",
+          "ldrmodules.not_in_load",
+          "svcscan.process_services",
+          "handles.nfile"
+        ]
+      },
+      {
+        "class": 3,
+        "diff_cosine": 0.8428956866264343,
+        "top_overlap": 12,
+        "top_k": 15,
+        "spearman_absdiff": 0.6955519508238709,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "dlllist.avg_dlls_per_proc",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "handles.avg_handles_per_proc",
+          "handles.nfile",
+          "pslist.avg_handlers",
+          "pslist.avg_threads",
+          "ldrmodules.not_in_load",
+          "handles.ntimer",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.5929112633069357,
+    "top_overlap_mean": 9.333333333333334
+  },
+  {
+    "seed": 2,
+    "task": "4class",
+    "T": 20,
+    "P": 32,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.7751492857933044,
+      0.3196127116680145,
+      0.4818304479122162,
+      0.6305136680603027
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.612991988658905,
+        "top_overlap": 7,
+        "top_k": 15,
+        "spearman_absdiff": 0.3211815931016819,
+        "sign_agreement_on_real_top": 0.8,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nmutant",
+          "handles.nevent",
+          "pslist.avg_threads",
+          "handles.avg_handles_per_proc",
+          "pslist.avg_handlers",
+          "svcscan.process_services"
+        ]
+      },
+      {
+        "class": 2,
+        "diff_cosine": 0.6308839917182922,
+        "top_overlap": 8,
+        "top_k": 15,
+        "spearman_absdiff": 0.19303338171262702,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "handles.nevent",
+          "handles.nthread",
+          "handles.nmutant",
+          "dlllist.ndlls",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "handles.avg_handles_per_proc"
+        ]
+      },
+      {
+        "class": 3,
+        "diff_cosine": 0.7620007991790771,
+        "top_overlap": 10,
+        "top_k": 15,
+        "spearman_absdiff": 0.479040382481004,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nhandles",
+          "handles.nevent",
+          "handles.avg_handles_per_proc",
+          "pslist.avg_handlers",
+          "dlllist.ndlls",
+          "ldrmodules.not_in_load",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.6686255931854248,
+    "top_overlap_mean": 8.333333333333334
+  },
+  {
+    "seed": 2,
+    "task": "4class",
+    "T": 20,
+    "P": 64,
+    "variant": "fixed",
+    "class_mean_cosine": [
+      0.8602346777915955,
+      0.5096356868743896,
+      0.7027551531791687,
+      0.5680927038192749
+    ],
+    "contrasts": [
+      {
+        "class": 1,
+        "diff_cosine": 0.8966951966285706,
+        "top_overlap": 14,
+        "top_k": 15,
+        "spearman_absdiff": 0.8402629556902586,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "dlllist.avg_dlls_per_proc",
+          "handles.nsection",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nevent",
+          "pslist.avg_threads",
+          "handles.nhandles",
+          "handles.avg_handles_per_proc",
+          "pslist.avg_handlers",
+          "dlllist.ndlls",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "svcscan.process_services"
+        ]
+      },
+      {
+        "class": 2,
+        "diff_cosine": 0.926561713218689,
+        "top_overlap": 13,
+        "top_k": 15,
+        "spearman_absdiff": 0.8105523776999914,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "handles.nevent",
+          "dlllist.avg_dlls_per_proc",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nhandles",
+          "dlllist.ndlls",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "handles.ntimer",
+          "handles.nsemaphore",
+          "pslist.avg_handlers",
+          "svcscan.process_services"
+        ]
+      },
+      {
+        "class": 3,
+        "diff_cosine": 0.9158158302307129,
+        "top_overlap": 13,
+        "top_k": 15,
+        "spearman_absdiff": 0.8325791855203619,
+        "sign_agreement_on_real_top": 1.0,
+        "recovered_top_features": [
+          "handles.nsection",
+          "dlllist.avg_dlls_per_proc",
+          "handles.nthread",
+          "handles.nmutant",
+          "handles.nhandles",
+          "handles.nevent",
+          "handles.avg_handles_per_proc",
+          "pslist.avg_handlers",
+          "pslist.avg_threads",
+          "dlllist.ndlls",
+          "ldrmodules.not_in_load",
+          "ldrmodules.not_in_mem",
+          "svcscan.process_services"
+        ]
+      }
+    ],
+    "diff_cosine_mean": 0.9130242466926575,
+    "top_overlap_mean": 13.333333333333334
+  }
+]
