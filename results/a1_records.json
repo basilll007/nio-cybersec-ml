@@ -1,0 +1,1370 @@
+[
+  {
+    "seed": 0,
+    "split": "random",
+    "task": "binary",
+    "model": "LR",
+    "fit_seconds": 0.0726713000331074,
+    "accuracy": 0.999089874857793,
+    "macro_f1": 0.999089874857793,
+    "balanced_accuracy": 0.999089874857793,
+    "confusion": [
+      [
+        4391,
+        4
+      ],
+      [
+        4,
+        4391
+      ]
+    ],
+    "roc_auc": 0.9997525370773749,
+    "per_type": {
+      "FPR@0.5": 0.0009101251422070534,
+      "Ransomware": {
+        "TPR@0.5": 0.9993192648059904,
+        "AUC_vs_benign": 0.9993147730379298,
+        "n": 1469
+      },
+      "Spyware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 0.9999884947586813,
+        "n": 1503
+      },
+      "Trojan": {
+        "TPR@0.5": 0.9978917779339423,
+        "AUC_vs_benign": 0.9999552292621542,
+        "n": 1423
+      }
+    }
+  },
+  {
+    "seed": 0,
+    "split": "random",
+    "task": "binary",
+    "model": "RF",
+    "fit_seconds": 1.0122506999759935,
+    "accuracy": 0.9997724687144482,
+    "macro_f1": 0.9997724687026688,
+    "balanced_accuracy": 0.9997724687144482,
+    "confusion": [
+      [
+        4393,
+        2
+      ],
+      [
+        0,
+        4395
+      ]
+    ],
+    "roc_auc": 1.0,
+    "per_type": {
+      "FPR@0.5": 0.0004550625711035267,
+      "Ransomware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1469
+      },
+      "Spyware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1503
+      },
+      "Trojan": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1423
+      }
+    }
+  },
+  {
+    "seed": 0,
+    "split": "random",
+    "task": "binary",
+    "model": "MLP",
+    "fit_seconds": 7.310168500000145,
+    "accuracy": 0.9996587030716724,
+    "macro_f1": 0.999658703067255,
+    "balanced_accuracy": 0.9996587030716724,
+    "confusion": [
+      [
+        4394,
+        1
+      ],
+      [
+        2,
+        4393
+      ]
+    ],
+    "roc_auc": 0.9999996376065986,
+    "per_type": {
+      "FPR@0.5": 0.00022753128555176336,
+      "Ransomware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 0.9999999999999999,
+        "n": 1469
+      },
+      "Spyware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1503
+      },
+      "Trojan": {
+        "TPR@0.5": 0.9985945186226283,
+        "AUC_vs_benign": 0.9999988807315539,
+        "n": 1423
+      }
+    }
+  },
+  {
+    "seed": 0,
+    "split": "random",
+    "task": "4class",
+    "model": "LR",
+    "fit_seconds": 2.1569519999902695,
+    "accuracy": 0.7474402730375427,
+    "macro_f1": 0.6198836914413065,
+    "balanced_accuracy": 0.6222949813308452,
+    "confusion": [
+      [
+        4393,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        601,
+        320,
+        548
+      ],
+      [
+        1,
+        375,
+        722,
+        405
+      ],
+      [
+        3,
+        307,
+        259,
+        854
+      ]
+    ],
+    "roc_auc_ovr_macro": 0.9092791601533194
+  },
+  {
+    "seed": 0,
+    "split": "random",
+    "task": "4class",
+    "model": "RF",
+    "fit_seconds": 1.416679199959617,
+    "accuracy": 0.8822525597269625,
+    "macro_f1": 0.8232166789538153,
+    "balanced_accuracy": 0.8233345320170034,
+    "confusion": [
+      [
+        4393,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        1086,
+        175,
+        208
+      ],
+      [
+        0,
+        141,
+        1201,
+        161
+      ],
+      [
+        0,
+        225,
+        123,
+        1075
+      ]
+    ],
+    "roc_auc_ovr_macro": 0.9722424634912791
+  },
+  {
+    "seed": 0,
+    "split": "random",
+    "task": "4class",
+    "model": "MLP",
+    "fit_seconds": 6.026187799987383,
+    "accuracy": 0.795108077360637,
+    "macro_f1": 0.6924610225678535,
+    "balanced_accuracy": 0.6943787786938932,
+    "confusion": [
+      [
+        4391,
+        0,
+        1,
+        3
+      ],
+      [
+        0,
+        854,
+        220,
+        395
+      ],
+      [
+        0,
+        396,
+        762,
+        345
+      ],
+      [
+        1,
+        312,
+        128,
+        982
+      ]
+    ],
+    "roc_auc_ovr_macro": 0.9337109347478915
+  },
+  {
+    "seed": 0,
+    "split": "group",
+    "task": "binary",
+    "model": "LR",
+    "fit_seconds": 0.07650020002620295,
+    "accuracy": 0.9993154592127781,
+    "macro_f1": 0.9993154536437547,
+    "balanced_accuracy": 0.9993154536437547,
+    "confusion": [
+      [
+        4392,
+        3
+      ],
+      [
+        3,
+        4367
+      ]
+    ],
+    "roc_auc": 0.9999978132004592,
+    "per_type": {
+      "FPR@0.5": 0.0006825938566552901,
+      "Ransomware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1469
+      },
+      "Spyware": {
+        "TPR@0.5": 0.998019801980198,
+        "AUC_vs_benign": 0.9999938423876517,
+        "n": 1515
+      },
+      "Trojan": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 0.9999998358360134,
+        "n": 1386
+      }
+    }
+  },
+  {
+    "seed": 0,
+    "split": "group",
+    "task": "binary",
+    "model": "RF",
+    "fit_seconds": 0.9526959999930114,
+    "accuracy": 0.9998859098687963,
+    "macro_f1": 0.9998859088648864,
+    "balanced_accuracy": 0.9998855835240275,
+    "confusion": [
+      [
+        4395,
+        0
+      ],
+      [
+        1,
+        4369
+      ]
+    ],
+    "roc_auc": 1.0,
+    "per_type": {
+      "FPR@0.5": 0.0,
+      "Ransomware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1469
+      },
+      "Spyware": {
+        "TPR@0.5": 0.9993399339933994,
+        "AUC_vs_benign": 1.0,
+        "n": 1515
+      },
+      "Trojan": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1386
+      }
+    }
+  },
+  {
+    "seed": 0,
+    "split": "group",
+    "task": "binary",
+    "model": "MLP",
+    "fit_seconds": 5.8422717999783345,
+    "accuracy": 1.0,
+    "macro_f1": 1.0,
+    "balanced_accuracy": 1.0,
+    "confusion": [
+      [
+        4395,
+        0
+      ],
+      [
+        0,
+        4370
+      ]
+    ],
+    "roc_auc": 1.0,
+    "per_type": {
+      "FPR@0.5": 0.0,
+      "Ransomware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1469
+      },
+      "Spyware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1515
+      },
+      "Trojan": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1386
+      }
+    }
+  },
+  {
+    "seed": 0,
+    "split": "group",
+    "task": "4class",
+    "model": "LR",
+    "fit_seconds": 1.8469725999748334,
+    "accuracy": 0.746377638334284,
+    "macro_f1": 0.6174328972859453,
+    "balanced_accuracy": 0.621155197774063,
+    "confusion": [
+      [
+        4392,
+        2,
+        0,
+        1
+      ],
+      [
+        0,
+        624,
+        261,
+        584
+      ],
+      [
+        4,
+        404,
+        659,
+        448
+      ],
+      [
+        0,
+        312,
+        207,
+        867
+      ]
+    ],
+    "roc_auc_ovr_macro": 0.907564972559996
+  },
+  {
+    "seed": 0,
+    "split": "group",
+    "task": "4class",
+    "model": "RF",
+    "fit_seconds": 1.3406039999681525,
+    "accuracy": 0.8508841985168283,
+    "macro_f1": 0.7759915155641766,
+    "balanced_accuracy": 0.7762024731598901,
+    "confusion": [
+      [
+        4395,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1012,
+        146,
+        311
+      ],
+      [
+        1,
+        268,
+        1040,
+        206
+      ],
+      [
+        0,
+        227,
+        148,
+        1011
+      ]
+    ],
+    "roc_auc_ovr_macro": 0.962227974090389
+  },
+  {
+    "seed": 0,
+    "split": "group",
+    "task": "4class",
+    "model": "MLP",
+    "fit_seconds": 6.029384099994786,
+    "accuracy": 0.7752424415288077,
+    "macro_f1": 0.6622240685538356,
+    "balanced_accuracy": 0.6642389790686566,
+    "confusion": [
+      [
+        4392,
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        805,
+        260,
+        404
+      ],
+      [
+        0,
+        472,
+        705,
+        338
+      ],
+      [
+        0,
+        376,
+        117,
+        893
+      ]
+    ],
+    "roc_auc_ovr_macro": 0.9253506477297915
+  },
+  {
+    "seed": 1,
+    "split": "random",
+    "task": "binary",
+    "model": "LR",
+    "fit_seconds": 0.07148939999751747,
+    "accuracy": 0.9997724687144482,
+    "macro_f1": 0.9997724687026688,
+    "balanced_accuracy": 0.9997724687144482,
+    "confusion": [
+      [
+        4395,
+        0
+      ],
+      [
+        2,
+        4393
+      ]
+    ],
+    "roc_auc": 1.0,
+    "per_type": {
+      "FPR@0.5": 0.0,
+      "Ransomware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1469
+      },
+      "Spyware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1503
+      },
+      "Trojan": {
+        "TPR@0.5": 0.9985945186226283,
+        "AUC_vs_benign": 1.0,
+        "n": 1423
+      }
+    }
+  },
+  {
+    "seed": 1,
+    "split": "random",
+    "task": "binary",
+    "model": "RF",
+    "fit_seconds": 1.0689277999917977,
+    "accuracy": 1.0,
+    "macro_f1": 1.0,
+    "balanced_accuracy": 1.0,
+    "confusion": [
+      [
+        4395,
+        0
+      ],
+      [
+        0,
+        4395
+      ]
+    ],
+    "roc_auc": 1.0,
+    "per_type": {
+      "FPR@0.5": 0.0,
+      "Ransomware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1469
+      },
+      "Spyware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1503
+      },
+      "Trojan": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1423
+      }
+    }
+  },
+  {
+    "seed": 1,
+    "split": "random",
+    "task": "binary",
+    "model": "MLP",
+    "fit_seconds": 5.81014379998669,
+    "accuracy": 1.0,
+    "macro_f1": 1.0,
+    "balanced_accuracy": 1.0,
+    "confusion": [
+      [
+        4395,
+        0
+      ],
+      [
+        0,
+        4395
+      ]
+    ],
+    "roc_auc": 1.0,
+    "per_type": {
+      "FPR@0.5": 0.0,
+      "Ransomware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1469
+      },
+      "Spyware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1503
+      },
+      "Trojan": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1423
+      }
+    }
+  },
+  {
+    "seed": 1,
+    "split": "random",
+    "task": "4class",
+    "model": "LR",
+    "fit_seconds": 2.0289015999878757,
+    "accuracy": 0.7503981797497156,
+    "macro_f1": 0.6251849930452833,
+    "balanced_accuracy": 0.6263418645531018,
+    "confusion": [
+      [
+        4395,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        661,
+        306,
+        502
+      ],
+      [
+        0,
+        354,
+        717,
+        432
+      ],
+      [
+        2,
+        347,
+        251,
+        823
+      ]
+    ],
+    "roc_auc_ovr_macro": 0.9096793430155774
+  },
+  {
+    "seed": 1,
+    "split": "random",
+    "task": "4class",
+    "model": "RF",
+    "fit_seconds": 1.3639461999991909,
+    "accuracy": 0.8709897610921502,
+    "macro_f1": 0.8057791720362926,
+    "balanced_accuracy": 0.8058223689956698,
+    "confusion": [
+      [
+        4395,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1073,
+        169,
+        227
+      ],
+      [
+        0,
+        155,
+        1196,
+        152
+      ],
+      [
+        0,
+        272,
+        159,
+        992
+      ]
+    ],
+    "roc_auc_ovr_macro": 0.9687601363029011
+  },
+  {
+    "seed": 1,
+    "split": "random",
+    "task": "4class",
+    "model": "MLP",
+    "fit_seconds": 5.935090899991337,
+    "accuracy": 0.7940841865756542,
+    "macro_f1": 0.6907380040308926,
+    "balanced_accuracy": 0.6921348674710712,
+    "confusion": [
+      [
+        4395,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        798,
+        281,
+        390
+      ],
+      [
+        0,
+        372,
+        815,
+        316
+      ],
+      [
+        0,
+        309,
+        142,
+        972
+      ]
+    ],
+    "roc_auc_ovr_macro": 0.9316955147165915
+  },
+  {
+    "seed": 1,
+    "split": "group",
+    "task": "binary",
+    "model": "LR",
+    "fit_seconds": 0.06342870002845302,
+    "accuracy": 0.9994385807320907,
+    "macro_f1": 0.9994384903361893,
+    "balanced_accuracy": 0.9994428736833159,
+    "confusion": [
+      [
+        4394,
+        1
+      ],
+      [
+        4,
+        4507
+      ]
+    ],
+    "roc_auc": 0.9999992434118193,
+    "per_type": {
+      "FPR@0.5": 0.00022753128555176336,
+      "Ransomware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1500
+      },
+      "Spyware": {
+        "TPR@0.5": 0.9974651457541192,
+        "AUC_vs_benign": 0.9999978371550803,
+        "n": 1578
+      },
+      "Trojan": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1433
+      }
+    }
+  },
+  {
+    "seed": 1,
+    "split": "group",
+    "task": "binary",
+    "model": "RF",
+    "fit_seconds": 1.008696900040377,
+    "accuracy": 1.0,
+    "macro_f1": 1.0,
+    "balanced_accuracy": 1.0,
+    "confusion": [
+      [
+        4395,
+        0
+      ],
+      [
+        0,
+        4511
+      ]
+    ],
+    "roc_auc": 1.0,
+    "per_type": {
+      "FPR@0.5": 0.0,
+      "Ransomware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1500
+      },
+      "Spyware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 0.9999999999999999,
+        "n": 1578
+      },
+      "Trojan": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1433
+      }
+    }
+  },
+  {
+    "seed": 1,
+    "split": "group",
+    "task": "binary",
+    "model": "MLP",
+    "fit_seconds": 2.056582499993965,
+    "accuracy": 0.9995508645856725,
+    "macro_f1": 0.9995507883774941,
+    "balanced_accuracy": 0.9995507883774941,
+    "confusion": [
+      [
+        4393,
+        2
+      ],
+      [
+        2,
+        4509
+      ]
+    ],
+    "roc_auc": 0.999999092094183,
+    "per_type": {
+      "FPR@0.5": 0.0004550625711035267,
+      "Ransomware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1500
+      },
+      "Spyware": {
+        "TPR@0.5": 0.9987325728770595,
+        "AUC_vs_benign": 0.9999974045860963,
+        "n": 1578
+      },
+      "Trojan": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1433
+      }
+    }
+  },
+  {
+    "seed": 1,
+    "split": "group",
+    "task": "4class",
+    "model": "LR",
+    "fit_seconds": 1.9732672999962233,
+    "accuracy": 0.7569054569952841,
+    "macro_f1": 0.6391307795421965,
+    "balanced_accuracy": 0.6422529323535975,
+    "confusion": [
+      [
+        4394,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        715,
+        282,
+        503
+      ],
+      [
+        3,
+        384,
+        722,
+        469
+      ],
+      [
+        0,
+        304,
+        219,
+        910
+      ]
+    ],
+    "roc_auc_ovr_macro": 0.9107893194838532
+  },
+  {
+    "seed": 1,
+    "split": "group",
+    "task": "4class",
+    "model": "RF",
+    "fit_seconds": 1.2469131000107154,
+    "accuracy": 0.854480125757916,
+    "macro_f1": 0.7843503480357354,
+    "balanced_accuracy": 0.7848251016904629,
+    "confusion": [
+      [
+        4395,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        993,
+        172,
+        335
+      ],
+      [
+        0,
+        184,
+        1143,
+        251
+      ],
+      [
+        0,
+        226,
+        128,
+        1079
+      ]
+    ],
+    "roc_auc_ovr_macro": 0.9621778952868149
+  },
+  {
+    "seed": 1,
+    "split": "group",
+    "task": "4class",
+    "model": "MLP",
+    "fit_seconds": 2.212837299972307,
+    "accuracy": 0.7547720637772288,
+    "macro_f1": 0.6369936001330716,
+    "balanced_accuracy": 0.6366273599351063,
+    "confusion": [
+      [
+        4393,
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        788,
+        351,
+        361
+      ],
+      [
+        6,
+        431,
+        838,
+        303
+      ],
+      [
+        0,
+        438,
+        292,
+        703
+      ]
+    ],
+    "roc_auc_ovr_macro": 0.9124845218249943
+  },
+  {
+    "seed": 2,
+    "split": "random",
+    "task": "binary",
+    "model": "LR",
+    "fit_seconds": 0.06828199996380135,
+    "accuracy": 0.9994311717861206,
+    "macro_f1": 0.9994311717198614,
+    "balanced_accuracy": 0.9994311717861206,
+    "confusion": [
+      [
+        4394,
+        1
+      ],
+      [
+        4,
+        4391
+      ]
+    ],
+    "roc_auc": 0.999763926584274,
+    "per_type": {
+      "FPR@0.5": 0.00022753128555176336,
+      "Ransomware": {
+        "TPR@0.5": 0.9993192648059904,
+        "AUC_vs_benign": 0.9993141534837147,
+        "n": 1469
+      },
+      "Spyware": {
+        "TPR@0.5": 0.998003992015968,
+        "AUC_vs_benign": 0.9999887975281897,
+        "n": 1503
+      },
+      "Trojan": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 0.9999907260614462,
+        "n": 1423
+      }
+    }
+  },
+  {
+    "seed": 2,
+    "split": "random",
+    "task": "binary",
+    "model": "RF",
+    "fit_seconds": 0.982359700021334,
+    "accuracy": 0.9998862343572241,
+    "macro_f1": 0.9998862343557517,
+    "balanced_accuracy": 0.9998862343572241,
+    "confusion": [
+      [
+        4395,
+        0
+      ],
+      [
+        1,
+        4394
+      ]
+    ],
+    "roc_auc": 0.9999999482295141,
+    "per_type": {
+      "FPR@0.5": 0.0,
+      "Ransomware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1469
+      },
+      "Spyware": {
+        "TPR@0.5": 0.9993346640053227,
+        "AUC_vs_benign": 0.9999998486152458,
+        "n": 1503
+      },
+      "Trojan": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1423
+      }
+    }
+  },
+  {
+    "seed": 2,
+    "split": "random",
+    "task": "binary",
+    "model": "MLP",
+    "fit_seconds": 4.445828400028404,
+    "accuracy": 1.0,
+    "macro_f1": 1.0,
+    "balanced_accuracy": 1.0,
+    "confusion": [
+      [
+        4395,
+        0
+      ],
+      [
+        0,
+        4395
+      ]
+    ],
+    "roc_auc": 1.0,
+    "per_type": {
+      "FPR@0.5": 0.0,
+      "Ransomware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1469
+      },
+      "Spyware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 0.9999999999999999,
+        "n": 1503
+      },
+      "Trojan": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1423
+      }
+    }
+  },
+  {
+    "seed": 2,
+    "split": "random",
+    "task": "4class",
+    "model": "LR",
+    "fit_seconds": 2.3560737000079826,
+    "accuracy": 0.7517633674630262,
+    "macro_f1": 0.626785665062042,
+    "balanced_accuracy": 0.6286684603481476,
+    "confusion": [
+      [
+        4394,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        648,
+        320,
+        501
+      ],
+      [
+        3,
+        374,
+        714,
+        412
+      ],
+      [
+        0,
+        321,
+        250,
+        852
+      ]
+    ],
+    "roc_auc_ovr_macro": 0.9100871687381051
+  },
+  {
+    "seed": 2,
+    "split": "random",
+    "task": "4class",
+    "model": "RF",
+    "fit_seconds": 1.3193117000046186,
+    "accuracy": 0.8738339021615472,
+    "macro_f1": 0.8104093008494366,
+    "balanced_accuracy": 0.810317907860641,
+    "confusion": [
+      [
+        4395,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1078,
+        177,
+        214
+      ],
+      [
+        1,
+        150,
+        1182,
+        170
+      ],
+      [
+        0,
+        263,
+        134,
+        1026
+      ]
+    ],
+    "roc_auc_ovr_macro": 0.970631863048234
+  },
+  {
+    "seed": 2,
+    "split": "random",
+    "task": "4class",
+    "model": "MLP",
+    "fit_seconds": 5.896095000032801,
+    "accuracy": 0.7896473265073948,
+    "macro_f1": 0.6849120908207247,
+    "balanced_accuracy": 0.6852198793586328,
+    "confusion": [
+      [
+        4394,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        792,
+        299,
+        378
+      ],
+      [
+        1,
+        351,
+        838,
+        313
+      ],
+      [
+        0,
+        372,
+        134,
+        917
+      ]
+    ],
+    "roc_auc_ovr_macro": 0.9306977474638425
+  },
+  {
+    "seed": 2,
+    "split": "group",
+    "task": "binary",
+    "model": "LR",
+    "fit_seconds": 0.08191270002862439,
+    "accuracy": 0.9993158494868871,
+    "macro_f1": 0.9993158451816154,
+    "balanced_accuracy": 0.9993153258573053,
+    "confusion": [
+      [
+        4393,
+        2
+      ],
+      [
+        4,
+        4371
+      ]
+    ],
+    "roc_auc": 0.9996991906387128,
+    "per_type": {
+      "FPR@0.5": 0.0004550625711035267,
+      "Ransomware": {
+        "TPR@0.5": 0.9979108635097493,
+        "AUC_vs_benign": 0.9990889241699702,
+        "n": 1436
+      },
+      "Spyware": {
+        "TPR@0.5": 0.999340804218853,
+        "AUC_vs_benign": 0.9999967002714026,
+        "n": 1517
+      },
+      "Trojan": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 0.9999980799047633,
+        "n": 1422
+      }
+    }
+  },
+  {
+    "seed": 2,
+    "split": "group",
+    "task": "binary",
+    "model": "RF",
+    "fit_seconds": 0.9343091999762692,
+    "accuracy": 1.0,
+    "macro_f1": 1.0,
+    "balanced_accuracy": 1.0,
+    "confusion": [
+      [
+        4395,
+        0
+      ],
+      [
+        0,
+        4375
+      ]
+    ],
+    "roc_auc": 1.0,
+    "per_type": {
+      "FPR@0.5": 0.0,
+      "Ransomware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1436
+      },
+      "Spyware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1517
+      },
+      "Trojan": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1422
+      }
+    }
+  },
+  {
+    "seed": 2,
+    "split": "group",
+    "task": "binary",
+    "model": "MLP",
+    "fit_seconds": 4.1026030000066385,
+    "accuracy": 0.9998859749144812,
+    "macro_f1": 0.9998859743792881,
+    "balanced_accuracy": 0.9998862343572241,
+    "confusion": [
+      [
+        4394,
+        1
+      ],
+      [
+        0,
+        4375
+      ]
+    ],
+    "roc_auc": 1.0,
+    "per_type": {
+      "FPR@0.5": 0.00022753128555176336,
+      "Ransomware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1436
+      },
+      "Spyware": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1517
+      },
+      "Trojan": {
+        "TPR@0.5": 1.0,
+        "AUC_vs_benign": 1.0,
+        "n": 1422
+      }
+    }
+  },
+  {
+    "seed": 2,
+    "split": "group",
+    "task": "4class",
+    "model": "LR",
+    "fit_seconds": 2.2512624000082724,
+    "accuracy": 0.744811858608894,
+    "macro_f1": 0.6152395540096356,
+    "balanced_accuracy": 0.6174267003243658,
+    "confusion": [
+      [
+        4394,
+        0,
+        0,
+        1
+      ],
+      [
+        3,
+        633,
+        286,
+        514
+      ],
+      [
+        0,
+        376,
+        664,
+        477
+      ],
+      [
+        0,
+        320,
+        261,
+        841
+      ]
+    ],
+    "roc_auc_ovr_macro": 0.9036611660368663
+  },
+  {
+    "seed": 2,
+    "split": "group",
+    "task": "4class",
+    "model": "RF",
+    "fit_seconds": 1.418556799995713,
+    "accuracy": 0.8410490307867731,
+    "macro_f1": 0.760989025013405,
+    "balanced_accuracy": 0.7611663331458679,
+    "confusion": [
+      [
+        4395,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        960,
+        221,
+        254
+      ],
+      [
+        0,
+        219,
+        1024,
+        274
+      ],
+      [
+        0,
+        242,
+        183,
+        997
+      ]
+    ],
+    "roc_auc_ovr_macro": 0.9557697407379679
+  },
+  {
+    "seed": 2,
+    "split": "group",
+    "task": "4class",
+    "model": "MLP",
+    "fit_seconds": 5.926137099973857,
+    "accuracy": 0.7758266818700114,
+    "macro_f1": 0.6635992260345572,
+    "balanced_accuracy": 0.6632991403514596,
+    "confusion": [
+      [
+        4393,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        843,
+        323,
+        270
+      ],
+      [
+        0,
+        414,
+        819,
+        284
+      ],
+      [
+        0,
+        468,
+        205,
+        749
+      ]
+    ],
+    "roc_auc_ovr_macro": 0.923429259928095
+  }
+]

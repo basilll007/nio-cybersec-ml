@@ -1,0 +1,183 @@
+{
+  "dataset": {
+    "rows": 58596,
+    "n_features_raw": 55,
+    "n_features_kept": 52,
+    "constant_dropped": [
+      "pslist.nprocs64bit",
+      "handles.nport",
+      "svcscan.interactive_process_services"
+    ],
+    "count_log1p": [
+      "pslist.nproc",
+      "pslist.nppid",
+      "dlllist.ndlls",
+      "handles.nhandles",
+      "handles.nfile",
+      "handles.nevent",
+      "handles.ndesktop",
+      "handles.nkey",
+      "handles.nthread",
+      "handles.ndirectory",
+      "handles.nsemaphore",
+      "handles.ntimer",
+      "handles.nsection",
+      "handles.nmutant",
+      "ldrmodules.not_in_load",
+      "ldrmodules.not_in_init",
+      "ldrmodules.not_in_mem",
+      "malfind.ninjections",
+      "malfind.commitCharge",
+      "malfind.protection",
+      "psxview.not_in_pslist",
+      "psxview.not_in_eprocess_pool",
+      "psxview.not_in_ethread_pool",
+      "psxview.not_in_pspcid_list",
+      "psxview.not_in_csrss_handles",
+      "psxview.not_in_session",
+      "psxview.not_in_deskthrd",
+      "modules.nmodules",
+      "svcscan.nservices",
+      "svcscan.kernel_drivers",
+      "svcscan.fs_drivers",
+      "svcscan.process_services",
+      "svcscan.shared_process_services",
+      "svcscan.nactive",
+      "callbacks.ncallbacks",
+      "callbacks.nanonymous",
+      "callbacks.ngeneric"
+    ],
+    "class_counts": {
+      "Benign": 29298,
+      "Malware": 29298
+    },
+    "type_counts": {
+      "Benign": 29298,
+      "Spyware": 10020,
+      "Ransomware": 9791,
+      "Trojan": 9487
+    },
+    "family_counts": {
+      "Benign": 29298,
+      "Spyware-Transponder": 2410,
+      "Spyware-Gator": 2200,
+      "Ransomware-Shade": 2128,
+      "Ransomware-Ako": 2000,
+      "Spyware-180solutions": 2000,
+      "Spyware-CWS": 2000,
+      "Trojan-Refroso": 2000,
+      "Trojan-Scar": 2000,
+      "Ransomware-Conti": 1988,
+      "Trojan-Emotet": 1967,
+      "Ransomware-Maze": 1958,
+      "Trojan-Zeus": 1950,
+      "Ransomware-Pysa": 1717,
+      "Trojan-Reconyc": 1570,
+      "Spyware-TIBS": 1410
+    },
+    "n_malware_binaries": 2887,
+    "dumps_per_binary_mean": 10.148250779355733,
+    "dumps_per_binary_max": 20,
+    "n_unparsed_filenames": 0,
+    "n_duplicate_feature_rows": 569
+  },
+  "split_sizes": [
+    {
+      "seed": 0,
+      "split": "random",
+      "train": 41016,
+      "val": 8790,
+      "test": 8790,
+      "test_type_counts": {
+        "Benign": 4395,
+        "Spyware": 1503,
+        "Ransomware": 1469,
+        "Trojan": 1423
+      }
+    },
+    {
+      "seed": 0,
+      "split": "group",
+      "train": 40868,
+      "val": 8963,
+      "test": 8765,
+      "test_type_counts": {
+        "Benign": 4395,
+        "Spyware": 1515,
+        "Ransomware": 1469,
+        "Trojan": 1386
+      }
+    },
+    {
+      "seed": 1,
+      "split": "random",
+      "train": 41016,
+      "val": 8790,
+      "test": 8790,
+      "test_type_counts": {
+        "Benign": 4395,
+        "Spyware": 1503,
+        "Ransomware": 1469,
+        "Trojan": 1423
+      }
+    },
+    {
+      "seed": 1,
+      "split": "group",
+      "train": 40848,
+      "val": 8842,
+      "test": 8906,
+      "test_type_counts": {
+        "Benign": 4395,
+        "Spyware": 1578,
+        "Ransomware": 1500,
+        "Trojan": 1433
+      }
+    },
+    {
+      "seed": 2,
+      "split": "random",
+      "train": 41016,
+      "val": 8790,
+      "test": 8790,
+      "test_type_counts": {
+        "Benign": 4395,
+        "Spyware": 1503,
+        "Ransomware": 1469,
+        "Trojan": 1423
+      }
+    },
+    {
+      "seed": 2,
+      "split": "group",
+      "train": 40880,
+      "val": 8946,
+      "test": 8770,
+      "test_type_counts": {
+        "Benign": 4395,
+        "Spyware": 1517,
+        "Ransomware": 1436,
+        "Trojan": 1422
+      }
+    }
+  ],
+  "hyperparameters": {
+    "MLP": {
+      "epochs": 40,
+      "batch_size": 512,
+      "lr": 0.001,
+      "weight_decay": 1e-05,
+      "patience": 6
+    },
+    "RF": {
+      "n_estimators": 300,
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "LR": {
+      "C": 1.0,
+      "max_iter": 3000,
+      "solver": "lbfgs"
+    }
+  }
+}
