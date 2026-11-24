@@ -62,3 +62,7 @@ One line per judgement call. "Spec" = the project brief.
 ## Reporting
 - All numbers in RESULTS.md are read from `results/*.csv|json` written by the scripts. mean ± std uses population std (ddof = 0) over the 3 seeds.
 - Figures are made only from `results/` (`scripts/08_make_figures.py`). Colour-blind-safe categorical palette in a CVD-validated fixed order (adjacent-pair ΔE ≥ 8; scatter plots use at most 3 hues) and a one-hue sequential ramp for ordinal P/T/λ. No baked-in titles.
+- C1 verification revealed that single-start Adam misses the grid optimum by > 1% in some single-plugin-detector runs (up to ~24%). This is reported as a negative result rather than fixed with multi-start, to keep the Ch7 method unchanged.
+- B3 pooled DCR tests are judged with a Bonferroni correction over the 26 (defence × attacker × P) cells.
+- RESULTS.md is rendered by `scripts/09_render_results.py` from `docs/RESULTS.template.md`. Every number is a placeholder filled from `results/`, and rendering fails if a placeholder is unresolved.
+- `publish.sh` (create the private repo, run the authorship and forbidden-file checks, push, check contributors) is provided because `gh` was not logged in during the run.

@@ -19,4 +19,5 @@ $PY scripts/03_primer_malmem.py        | tee logs/03.log      # Part B1 NIO prim
 $PY scripts/05_primer_defense.py       | tee logs/05.log      # Part B3 defences
 $PY scripts/06_policy_malware.py       | tee logs/06.log      # Part C1 detector-in-the-loop policy NIO
 $PY scripts/08_make_figures.py         | tee logs/08.log      # all figures from results/
+$PY scripts/09_render_results.py       | tee logs/09.log      # RESULTS.md from docs/RESULTS.template.md + results/
 echo "done: see RESULTS.md, results/, figures/"
