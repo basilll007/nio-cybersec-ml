@@ -1,0 +1,6 @@
+timestamp,step,seconds,device,note
+2026-11-23 23:56:16,00_sanity_reproductions,34.2,cuda,Ch10 abc primer + Ch7 SIR NIO; CPU
+2026-11-23 23:56:33,A1_baselines_malmem,351.0,cuda,3 seeds x {random;group} x {binary;4class} x {LR;RF;MLP} + LOTO + perm. importance
+2026-11-24 00:00:01,B3_primer_defense,607.3,cuda,78 NIO runs against DP-style / weight-decay defended references
+2026-11-24 00:01:17,B1_primer_malmem,683.3,cuda,87 NIO runs; P sweep x T sweep x seeds; binary + 4-class; soft-label variant
+2026-11-24 00:03:50,C1_policy_malware,93.4,cuda,99 detector configs; main + 21^3 grid + 20 lambda/mu combos + time-varying + q sweep

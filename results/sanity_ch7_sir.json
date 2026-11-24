@@ -213,6 +213,11 @@
       0.033920325338840485
     ],
     "iter_loss_within_1pct_of_final": 20,
-    "manual_policy_0.3_0.4_peak_pct": 6.3235942203729385
+    "manual_policy_0.3_0.4_peak_pct": 6.3235942203729385,
+    "manual_policy_0.3_0.4_final_R_pct": 51.835152705643736,
+    "policy_0_0_peak_pct": 48.29064835723996,
+    "policy_0_0_final_R_pct": 96.61865172954862,
+    "policy_1_1_peak_pct": 1.0,
+    "policy_1_1_final_R_pct": 1.2465073409119927
   }
 }

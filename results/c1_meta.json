@@ -43,10 +43,10 @@
   ],
   "n_configs": 99,
   "seconds": {
-    "main_adam_300it_batched": 17.597901100001764,
-    "pareto_batched": 29.03652989998227,
-    "time_varying": 46.46526409999933,
-    "detector_quality": 15.855483299994376
+    "main_adam_300it_batched": 14.378813400049694,
+    "pareto_batched": 26.249455499986652,
+    "time_varying": 37.41286709997803,
+    "detector_quality": 13.37469579995377
   },
   "assumptions": "beta0, firewall efficacy 0.8, gamma = 0.05 + 0.45*x2*TPR, lambda, mu, temp=0.02 and q are illustrative assumptions, not measured network properties"
 }

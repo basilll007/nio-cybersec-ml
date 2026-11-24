@@ -113,15 +113,18 @@ def ch7_policy() -> dict:
     ours = {"firewall": firewall.item(), "recovery": recovery.item(), "peak_infection_pct": 100 * peak.item(),
             "final_loss": losses[-1], "loss_curve": losses,
             "iter_loss_within_1pct_of_final": next(i for i, l in enumerate(losses) if abs(l - losses[-1]) <= 0.01 * losses[-1])}
-    # README Experiment 1 (manual policy 0.3 / 0.4) peak, for completeness
-    fw, rc = 0.3, 0.4
-    beta, gamma = 0.5 * (1 - 0.8 * fw), 0.1 + 0.4 * rc
-    S, I, R = 0.99, 0.01, 0.0; peak = 0.0
-    for _ in range(500):
-        peak = max(peak, I)
-        dS = -beta * S * I; dI = beta * S * I - gamma * I; dR = gamma * I
-        S += 0.1 * dS; I += 0.1 * dI; R += 0.1 * dR
-    ours["manual_policy_0.3_0.4_peak_pct"] = 100 * peak
+    # README Experiment 1: manual policy 0.3 / 0.4, and the two corner cases (both 0, both 1)
+    def manual(fw, rc):
+        beta, gamma = 0.5 * (1 - 0.8 * fw), 0.1 + 0.4 * rc
+        S, I, R = 0.99, 0.01, 0.0; peak = 0.0
+        for _ in range(500):
+            peak = max(peak, I)
+            dS = -beta * S * I; dI = beta * S * I - gamma * I; dR = gamma * I
+            S += 0.1 * dS; I += 0.1 * dI; R += 0.1 * dR
+        return 100 * peak, 100 * R
+    ours["manual_policy_0.3_0.4_peak_pct"], ours["manual_policy_0.3_0.4_final_R_pct"] = manual(0.3, 0.4)
+    ours["policy_0_0_peak_pct"], ours["policy_0_0_final_R_pct"] = manual(0.0, 0.0)
+    ours["policy_1_1_peak_pct"], ours["policy_1_1_final_R_pct"] = manual(1.0, 1.0)
     return {"readme": readme, "ours": ours}
 
 
