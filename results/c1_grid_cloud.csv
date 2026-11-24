@@ -1,0 +1,1801 @@
+type,detector,deploy_cost,peak_pct
+Ransomware,known,1.0625,1.0
+Ransomware,known,0.61,1.0
+Ransomware,known,0.76250005,1.0
+Ransomware,known,1.1225,1.0
+Ransomware,known,0.905,1.0
+Ransomware,known,0.9025,16.64446
+Ransomware,known,0.2125,14.979575
+Ransomware,known,0.1,23.69321
+Ransomware,known,0.5125,2.3830633
+Ransomware,known,0.36,49.403687
+Ransomware,known,0.12499999,47.98962
+Ransomware,known,0.80999994,1.334655
+Ransomware,known,0.1625,24.887636
+Ransomware,known,0.9250001,1.0
+Ransomware,known,0.46249998,2.5287056
+Ransomware,known,0.64000005,2.559041
+Ransomware,known,1.445,1.0
+Ransomware,known,0.785,1.0
+Ransomware,known,0.29250002,11.128579
+Ransomware,known,0.185,14.668484
+Ransomware,known,0.3625,5.1251726
+Ransomware,known,1.3249999,1.0
+Ransomware,known,0.0925,49.72139
+Ransomware,known,0.98499995,1.0
+Ransomware,known,1.145,1.0
+Ransomware,known,0.24250002,9.938541
+Ransomware,known,1.105,1.0
+Ransomware,known,0.7249999,1.0
+Ransomware,known,0.09,26.756588
+Ransomware,known,0.7225,32.782635
+Ransomware,known,0.42499995,2.4385512
+Ransomware,known,0.24499999,11.22768
+Ransomware,known,0.3625,4.3973165
+Ransomware,known,1.2850001,1.0
+Ransomware,known,0.34,9.170444
+Ransomware,known,0.36499995,4.367636
+Ransomware,known,0.29250002,7.085186
+Ransomware,known,0.7225,1.0
+Ransomware,known,0.53,8.258831
+Ransomware,known,1.2049999,1.0
+Ransomware,known,0.88250005,1.0
+Ransomware,known,0.74,1.0
+Ransomware,known,0.31249994,7.8260345
+Ransomware,known,0.505,1.4067405
+Ransomware,known,0.49249998,3.9098594
+Ransomware,known,0.085,35.113327
+Ransomware,known,0.080000006,30.545765
+Ransomware,known,0.18,16.839365
+Ransomware,known,0.65250003,1.2189324
+Ransomware,known,0.37,27.132399
+Ransomware,known,0.76250005,1.6915163
+Ransomware,known,1.025,1.0
+Ransomware,known,0.745,4.288106
+Ransomware,known,0.39249995,3.344452
+Ransomware,known,1.4224999,1.0
+Ransomware,known,0.16000001,18.859072
+Ransomware,known,1.81,1.0
+Ransomware,known,0.845,1.0
+Ransomware,known,0.22500002,11.375627
+Ransomware,known,0.26500002,8.503163
+Ransomware,known,0.96999997,1.0
+Ransomware,known,0.32499996,22.096216
+Ransomware,known,0.4225,2.960438
+Ransomware,known,0.8324999,2.0779376
+Ransomware,known,0.5125,13.665091
+Ransomware,known,0.012500001,48.61469
+Ransomware,known,1.6400001,1.0
+Ransomware,known,0.41000003,2.7754517
+Ransomware,known,1.45,1.0
+Ransomware,known,0.1,40.784027
+Ransomware,known,0.48250002,1.5372138
+Ransomware,known,0.46249998,1.6981043
+Ransomware,known,1.6400001,1.0
+Ransomware,known,1.1524999,1.0
+Ransomware,known,1.3,1.0
+Ransomware,known,0.0,67.36122
+Ransomware,known,1.09,1.0
+Ransomware,known,0.55249995,1.003237
+Ransomware,known,1.2625,1.0
+Ransomware,known,0.25,9.731448
+Ransomware,known,0.0925,25.254404
+Ransomware,known,0.39249995,7.229915
+Ransomware,known,0.46249995,2.6446161
+Ransomware,known,0.045,38.51543
+Ransomware,known,0.16000001,57.451355
+Ransomware,known,0.8125,1.0
+Ransomware,known,1.1524999,1.0
+Ransomware,known,1.2324998,1.0
+Ransomware,known,0.89000005,1.0
+Ransomware,known,0.26500002,15.376367
+Ransomware,known,0.44499996,3.4529228
+Ransomware,known,0.32499996,6.631858
+Ransomware,known,1.2049999,1.0
+Ransomware,known,1.04,1.0
+Ransomware,known,1.0225,1.0
+Ransomware,known,1.5425,1.0
+Ransomware,known,0.80999994,26.096926
+Ransomware,known,0.91249996,2.5454772
+Ransomware,known,0.8425001,1.0
+Ransomware,known,1.25,1.0
+Ransomware,known,0.765,1.0
+Ransomware,known,0.1525,18.643503
+Ransomware,known,0.0025000002,57.939613
+Ransomware,known,1.4649999,1.0
+Ransomware,known,1.2850001,1.0
+Ransomware,known,1.2625,1.0
+Ransomware,known,1.5325,1.0
+Ransomware,known,0.7924999,1.0
+Ransomware,known,0.67249995,1.0
+Ransomware,known,0.38250002,4.8611393
+Ransomware,known,0.54499996,1.0770088
+Ransomware,known,0.49999997,21.048677
+Ransomware,known,0.4225,8.776391
+Ransomware,known,1.0,1.0
+Ransomware,known,0.12499999,21.07828
+Ransomware,known,1.0625,1.0
+Ransomware,known,1.13,1.0
+Ransomware,known,1.09,1.0
+Ransomware,known,1.0025,1.0
+Ransomware,known,0.765,1.0
+Ransomware,known,0.3125,13.213684
+Ransomware,known,0.585,10.615707
+Ransomware,known,0.725,19.05588
+Ransomware,known,1.3025,1.0
+Ransomware,known,0.17000002,36.86993
+Ransomware,known,0.905,6.811698
+Ransomware,known,1.625,1.0
+Ransomware,known,0.6925,1.0
+Ransomware,known,0.49249998,30.88307
+Ransomware,known,0.78249997,1.0
+Ransomware,known,1.0225,1.0
+Ransomware,known,0.3625,36.90501
+Ransomware,known,0.9725,1.0
+Ransomware,known,0.012500001,55.546318
+Ransomware,known,0.32500002,5.7064333
+Ransomware,known,0.8000001,1.0
+Ransomware,known,0.5825,1.0515819
+Ransomware,known,0.44499996,16.61611
+Ransomware,known,1.06,1.0
+Ransomware,known,1.3625001,1.0
+Ransomware,known,1.5325,1.0
+Ransomware,known,0.5625,1.0
+Ransomware,known,0.58,1.0448847
+Ransomware,known,0.99249995,1.0
+Ransomware,known,0.85,1.0
+Ransomware,known,1.2125,1.0
+Ransomware,known,1.5625,1.0
+Ransomware,known,0.0725,28.438496
+Ransomware,known,0.0050000004,56.780087
+Ransomware,known,0.22250001,11.308354
+Ransomware,known,0.48499995,1.9512353
+Ransomware,known,0.7249999,1.0
+Ransomware,known,0.2525,11.432657
+Ransomware,known,0.29,18.303726
+Ransomware,known,1.17,1.0
+Ransomware,known,1.7225001,1.0
+Ransomware,known,0.61,1.0
+Ransomware,known,0.1325,38.894318
+Ransomware,known,0.42499995,4.4408092
+Ransomware,known,0.42249995,46.827682
+Ransomware,known,0.99249995,1.0
+Ransomware,known,1.2025,1.0
+Ransomware,known,0.45000002,2.168834
+Ransomware,known,1.01,1.0821264
+Ransomware,known,0.76250005,1.0
+Ransomware,known,0.010000001,49.91918
+Ransomware,known,1.6199999,1.0
+Ransomware,known,0.9025,1.0635076
+Ransomware,known,0.93249995,1.0
+Ransomware,known,1.06,1.0
+Ransomware,known,0.125,23.307528
+Ransomware,known,1.0625,1.0
+Ransomware,known,0.965,1.0
+Ransomware,known,0.48999998,43.944286
+Ransomware,known,0.3625,7.0043125
+Ransomware,known,0.965,1.0
+Ransomware,known,0.25,12.744559
+Ransomware,known,0.112500004,33.257595
+Ransomware,known,1.13,1.0
+Ransomware,known,0.025,41.559826
+Ransomware,known,1.3725,1.0
+Ransomware,known,1.1125,1.0
+Ransomware,known,0.040000003,36.870422
+Ransomware,known,1.025,1.0
+Ransomware,known,1.3924999,1.0
+Ransomware,known,0.025,54.232727
+Ransomware,known,0.92499995,1.0
+Ransomware,known,0.845,1.0
+Ransomware,known,1.0825,1.0
+Ransomware,known,0.8000001,1.0
+Ransomware,known,0.67249995,1.0
+Ransomware,known,0.21250002,12.803109
+Ransomware,known,0.43249995,4.3463416
+Ransomware,known,0.20250002,15.599593
+Ransomware,known,1.7124999,1.0
+Ransomware,known,0.9,1.0
+Ransomware,known,2.0,1.0
+Ransomware,known,0.9225,1.0
+Ransomware,known,0.25,53.811996
+Ransomware,known,0.22500002,26.973501
+Ransomware,novel (LOTO),0.09,60.51209
+Ransomware,novel (LOTO),0.48250002,2.9989936
+Ransomware,novel (LOTO),0.585,1.6303099
+Ransomware,novel (LOTO),0.625,2.6993294
+Ransomware,novel (LOTO),1.09,1.0
+Ransomware,novel (LOTO),2.0,1.0
+Ransomware,novel (LOTO),0.26500002,15.376367
+Ransomware,novel (LOTO),0.585,10.615707
+Ransomware,novel (LOTO),0.74,1.0
+Ransomware,novel (LOTO),0.1,23.69321
+Ransomware,novel (LOTO),1.3625001,1.0
+Ransomware,novel (LOTO),1.7124999,1.0
+Ransomware,novel (LOTO),0.050000004,44.2103
+Ransomware,novel (LOTO),0.93249995,1.0
+Ransomware,novel (LOTO),0.64250004,1.982674
+Ransomware,novel (LOTO),1.4649999,1.0
+Ransomware,novel (LOTO),0.96999997,1.0
+Ransomware,novel (LOTO),0.3725,3.8151257
+Ransomware,novel (LOTO),0.2725,8.792643
+Ransomware,novel (LOTO),0.84999996,1.0
+Ransomware,novel (LOTO),0.965,1.0
+Ransomware,novel (LOTO),0.7225,1.8291619
+Ransomware,novel (LOTO),0.12499999,21.07828
+Ransomware,novel (LOTO),0.6025,5.7464833
+Ransomware,novel (LOTO),1.1225,1.0
+Ransomware,novel (LOTO),0.99249995,1.0
+Ransomware,novel (LOTO),0.5625,1.0182992
+Ransomware,novel (LOTO),0.46249998,2.5287056
+Ransomware,novel (LOTO),0.73,1.0
+Ransomware,novel (LOTO),0.96999997,1.0
+Ransomware,novel (LOTO),0.1525,21.442698
+Ransomware,novel (LOTO),1.06,1.0
+Ransomware,novel (LOTO),0.4225,2.960438
+Ransomware,novel (LOTO),0.7325,9.706506
+Ransomware,novel (LOTO),0.625,1.0
+Ransomware,novel (LOTO),0.48999998,4.779502
+Ransomware,novel (LOTO),1.0625,1.0
+Ransomware,novel (LOTO),1.0025,1.0
+Ransomware,novel (LOTO),0.73,1.0
+Ransomware,novel (LOTO),0.13000001,26.871624
+Ransomware,novel (LOTO),1.0625,1.0
+Ransomware,novel (LOTO),1.3924999,1.0
+Ransomware,novel (LOTO),0.2725,24.608862
+Ransomware,novel (LOTO),0.42499995,2.4385512
+Ransomware,novel (LOTO),0.16000001,18.859072
+Ransomware,novel (LOTO),0.80999994,26.096926
+Ransomware,novel (LOTO),1.45,1.0
+Ransomware,novel (LOTO),1.0124999,1.0
+Ransomware,novel (LOTO),0.36,49.403687
+Ransomware,novel (LOTO),0.76250005,1.0
+Ransomware,novel (LOTO),1.145,1.0
+Ransomware,novel (LOTO),0.0025000002,57.939613
+Ransomware,novel (LOTO),1.1225,1.0
+Ransomware,novel (LOTO),0.76250005,1.0
+Ransomware,novel (LOTO),1.0625,1.0
+Ransomware,novel (LOTO),0.4,13.402502
+Ransomware,novel (LOTO),0.5125,2.3830633
+Ransomware,novel (LOTO),1.5425,1.0
+Ransomware,novel (LOTO),0.765,1.0
+Ransomware,novel (LOTO),0.97999996,1.0
+Ransomware,novel (LOTO),0.2825,9.480682
+Ransomware,novel (LOTO),0.4,3.868789
+Ransomware,novel (LOTO),0.1325,38.894318
+Ransomware,novel (LOTO),0.87249994,1.0
+Ransomware,novel (LOTO),0.785,1.0
+Ransomware,novel (LOTO),0.6925,1.0
+Ransomware,novel (LOTO),0.30499995,39.51808
+Ransomware,novel (LOTO),1.4224999,1.0
+Ransomware,novel (LOTO),0.7249999,1.0
+Ransomware,novel (LOTO),0.10250001,25.093586
+Ransomware,novel (LOTO),0.80999994,1.334655
+Ransomware,novel (LOTO),0.112500004,33.257595
+Ransomware,novel (LOTO),1.01,1.0
+Ransomware,novel (LOTO),1.13,1.0
+Ransomware,novel (LOTO),0.8425001,1.0
+Ransomware,novel (LOTO),0.565,2.8092265
+Ransomware,novel (LOTO),0.8000001,1.0
+Ransomware,novel (LOTO),0.0,67.36122
+Ransomware,novel (LOTO),0.745,4.288106
+Ransomware,novel (LOTO),0.52000004,1.5837404
+Ransomware,novel (LOTO),0.9725,1.0
+Ransomware,novel (LOTO),1.0825,1.0
+Ransomware,novel (LOTO),0.37,27.132399
+Ransomware,novel (LOTO),0.24250002,20.605473
+Ransomware,novel (LOTO),0.025,54.232727
+Ransomware,novel (LOTO),0.3625,7.0043125
+Ransomware,novel (LOTO),1.0225,1.0
+Ransomware,novel (LOTO),1.0625,1.0
+Ransomware,novel (LOTO),0.58,2.186369
+Ransomware,novel (LOTO),1.04,1.0
+Ransomware,novel (LOTO),1.2025001,1.0
+Ransomware,novel (LOTO),0.5625,1.0
+Ransomware,novel (LOTO),0.58,1.0448847
+Ransomware,novel (LOTO),0.30249995,10.261148
+Ransomware,novel (LOTO),0.55249995,1.003237
+Ransomware,novel (LOTO),0.86499995,1.0
+Ransomware,novel (LOTO),1.025,1.0
+Ransomware,novel (LOTO),1.17,1.0
+Ransomware,novel (LOTO),0.09,26.756588
+Ransomware,novel (LOTO),1.7225001,1.0
+Ransomware,novel (LOTO),1.0,8.553302
+Ransomware,novel (LOTO),0.3125,13.213684
+Ransomware,novel (LOTO),0.34,9.170444
+Ransomware,novel (LOTO),0.0725,42.55211
+Ransomware,novel (LOTO),0.185,19.497675
+Ransomware,novel (LOTO),0.64000005,2.559041
+Ransomware,novel (LOTO),1.06,1.0
+Ransomware,novel (LOTO),1.09,1.0
+Ransomware,novel (LOTO),1.3725,1.0
+Ransomware,novel (LOTO),0.26,32.36219
+Ransomware,novel (LOTO),1.6400001,1.0
+Ransomware,novel (LOTO),0.5825,1.0
+Ransomware,novel (LOTO),0.5124999,3.6343043
+Ransomware,novel (LOTO),1.0825,1.0
+Ransomware,novel (LOTO),0.045,38.51543
+Ransomware,novel (LOTO),0.7225,1.0
+Ransomware,novel (LOTO),0.0050000004,56.780087
+Ransomware,novel (LOTO),0.32499996,22.096216
+Ransomware,novel (LOTO),0.91249996,1.0
+Ransomware,novel (LOTO),0.32500002,5.7064333
+Ransomware,novel (LOTO),1.5325,1.0
+Ransomware,novel (LOTO),0.41000003,3.741651
+Ransomware,novel (LOTO),0.7325,1.1285344
+Ransomware,novel (LOTO),0.112500004,22.07138
+Ransomware,novel (LOTO),0.050000004,33.86494
+Ransomware,novel (LOTO),0.68000007,3.4005008
+Ransomware,novel (LOTO),1.2324998,1.0
+Ransomware,novel (LOTO),0.040000003,36.870422
+Ransomware,novel (LOTO),0.685,1.0
+Ransomware,novel (LOTO),1.105,1.0
+Ransomware,novel (LOTO),1.3924999,1.0
+Ransomware,novel (LOTO),0.29250002,11.128579
+Ransomware,novel (LOTO),1.0225,1.0
+Ransomware,novel (LOTO),0.36499995,4.367636
+Ransomware,novel (LOTO),0.38250002,19.431282
+Ransomware,novel (LOTO),0.65250003,1.2189324
+Ransomware,novel (LOTO),0.16000001,57.451355
+Ransomware,novel (LOTO),1.1524999,1.0
+Ransomware,novel (LOTO),0.31249994,7.8260345
+Ransomware,novel (LOTO),0.0025000002,66.404274
+Ransomware,novel (LOTO),1.2850001,1.0
+Ransomware,novel (LOTO),0.3625,5.1251726
+Ransomware,novel (LOTO),0.085,35.113327
+Ransomware,novel (LOTO),0.5525,4.5097647
+Ransomware,novel (LOTO),0.98499995,1.0
+Ransomware,novel (LOTO),1.025,1.0
+Ransomware,novel (LOTO),0.61,1.0
+Ransomware,novel (LOTO),1.0,1.0
+Ransomware,novel (LOTO),0.92499995,1.0060141
+Ransomware,novel (LOTO),0.185,14.668484
+Ransomware,novel (LOTO),0.20500001,44.101997
+Ransomware,novel (LOTO),0.8125,1.0
+Ransomware,novel (LOTO),0.87249994,1.0
+Ransomware,novel (LOTO),0.9425,1.0
+Ransomware,novel (LOTO),0.5,1.2798274
+Ransomware,novel (LOTO),0.49999997,3.1039147
+Ransomware,novel (LOTO),0.81249994,1.0917909
+Ransomware,novel (LOTO),0.43249995,24.20444
+Ransomware,novel (LOTO),0.9425,1.0
+Ransomware,novel (LOTO),0.24499999,11.22768
+Ransomware,novel (LOTO),0.91249996,2.5454772
+Ransomware,novel (LOTO),1.81,1.0
+Ransomware,novel (LOTO),0.905,6.811698
+Ransomware,novel (LOTO),0.17000002,36.86993
+Ransomware,novel (LOTO),0.42499995,34.038414
+Ransomware,novel (LOTO),0.76250005,1.6915163
+Ransomware,novel (LOTO),1.145,1.0
+Ransomware,novel (LOTO),0.92499995,1.0
+Ransomware,novel (LOTO),0.25,9.731448
+Ransomware,novel (LOTO),0.78249997,1.0
+Ransomware,novel (LOTO),0.89000005,1.0
+Ransomware,novel (LOTO),0.565,27.40087
+Ransomware,novel (LOTO),0.18,16.839365
+Ransomware,novel (LOTO),1.2850001,1.0
+Ransomware,novel (LOTO),1.025,1.0
+Ransomware,novel (LOTO),0.7249999,1.0
+Ransomware,novel (LOTO),0.5125,13.665091
+Ransomware,novel (LOTO),0.012500001,48.61469
+Ransomware,novel (LOTO),0.26500002,8.503163
+Ransomware,novel (LOTO),0.122499995,22.56215
+Ransomware,novel (LOTO),0.3625,36.90501
+Ransomware,novel (LOTO),0.3125,6.203451
+Ransomware,novel (LOTO),1.5625,1.0
+Ransomware,novel (LOTO),1.17,1.0
+Ransomware,novel (LOTO),0.98499995,1.0
+Ransomware,novel (LOTO),0.6625,7.4507465
+Ransomware,novel (LOTO),1.1125,1.0
+Ransomware,novel (LOTO),1.6199999,1.0
+Ransomware,novel (LOTO),0.66249996,1.0
+Ransomware,novel (LOTO),0.42249995,46.827682
+Ransomware,novel (LOTO),0.8125,1.0
+Ransomware,novel (LOTO),0.010000001,65.38516
+Ransomware,novel (LOTO),0.52000004,1.1232975
+Ransomware,novel (LOTO),0.9,1.0
+Ransomware,novel (LOTO),0.76250005,1.0
+Ransomware,novel (LOTO),1.3,1.0
+Ransomware,novel (LOTO),0.61,1.0
+Ransomware,novel (LOTO),0.9425,1.0
+Ransomware,novel (LOTO),0.2525,11.432657
+Ransomware,novel (LOTO),0.7924999,1.0
+Ransomware,plugin:callbacks,0.040000003,63.12438
+Ransomware,plugin:callbacks,0.91249996,2.5457802
+Ransomware,plugin:callbacks,0.585,10.616728
+Ransomware,plugin:callbacks,0.065,30.004782
+Ransomware,plugin:callbacks,0.29,7.485722
+Ransomware,plugin:callbacks,0.965,1.0
+Ransomware,plugin:callbacks,0.37,27.13338
+Ransomware,plugin:callbacks,0.112500004,22.072922
+Ransomware,plugin:callbacks,1.0225,1.0
+Ransomware,plugin:callbacks,0.87249994,1.0
+Ransomware,plugin:callbacks,1.025,1.0
+Ransomware,plugin:callbacks,1.1125,1.0
+Ransomware,plugin:callbacks,0.12499999,47.990192
+Ransomware,plugin:callbacks,0.39249995,7.231049
+Ransomware,plugin:callbacks,0.30499995,39.51871
+Ransomware,plugin:callbacks,0.22500002,11.377108
+Ransomware,plugin:callbacks,0.32499996,22.097445
+Ransomware,plugin:callbacks,1.0,1.0
+Ransomware,plugin:callbacks,0.7249999,1.0
+Ransomware,plugin:callbacks,0.09,60.51209
+Ransomware,plugin:callbacks,1.3625001,1.0
+Ransomware,plugin:callbacks,0.48999998,43.944286
+Ransomware,plugin:callbacks,0.1525,18.645031
+Ransomware,plugin:callbacks,0.2725,8.79401
+Ransomware,plugin:callbacks,1.445,1.0
+Ransomware,plugin:callbacks,1.1524999,1.0
+Ransomware,plugin:callbacks,1.06,1.0
+Ransomware,plugin:callbacks,0.20250002,55.71416
+Ransomware,plugin:callbacks,0.1625,16.339935
+Ransomware,plugin:callbacks,0.66249996,1.0
+Ransomware,plugin:callbacks,0.85,1.0
+Ransomware,plugin:callbacks,0.7249999,1.0
+Ransomware,plugin:callbacks,0.41000003,2.7762334
+Ransomware,plugin:callbacks,0.7325,1.1287847
+Ransomware,plugin:callbacks,0.32500002,5.707552
+Ransomware,plugin:callbacks,0.7325,9.707332
+Ransomware,plugin:callbacks,0.9425,1.0
+Ransomware,plugin:callbacks,1.4649999,1.0
+Ransomware,plugin:callbacks,0.785,1.0
+Ransomware,plugin:callbacks,0.16250001,46.12294
+Ransomware,plugin:callbacks,0.36499995,11.004819
+Ransomware,plugin:callbacks,1.7225001,1.0
+Ransomware,plugin:callbacks,0.72,1.0
+Ransomware,plugin:callbacks,0.61249995,1.0
+Ransomware,plugin:callbacks,1.36,1.0
+Ransomware,plugin:callbacks,0.86499995,1.0
+Ransomware,plugin:callbacks,0.6625,7.451667
+Ransomware,plugin:callbacks,1.4224999,1.0
+Ransomware,plugin:callbacks,0.8125,1.0
+Ransomware,plugin:callbacks,0.49999997,3.1048112
+Ransomware,plugin:callbacks,0.1,40.78494
+Ransomware,plugin:callbacks,0.3625,7.005607
+Ransomware,plugin:callbacks,0.8324999,1.0
+Ransomware,plugin:callbacks,0.89000005,1.0
+Ransomware,plugin:callbacks,0.84999996,1.0
+Ransomware,plugin:callbacks,0.2125,12.9631605
+Ransomware,plugin:callbacks,0.38250002,4.862248
+Ransomware,plugin:callbacks,1.025,1.0
+Ransomware,plugin:callbacks,0.4,3.8697698
+Ransomware,plugin:callbacks,0.29,18.30506
+Ransomware,plugin:callbacks,1.145,1.0
+Ransomware,plugin:callbacks,1.4224999,1.0
+Ransomware,plugin:callbacks,1.2049999,1.0
+Ransomware,plugin:callbacks,1.5425,1.0
+Ransomware,plugin:callbacks,0.0050000004,56.780563
+Ransomware,plugin:callbacks,1.1125,1.0
+Ransomware,plugin:callbacks,0.5124999,1.4121096
+Ransomware,plugin:callbacks,0.6625,1.1760966
+Ransomware,plugin:callbacks,0.565,2.8100579
+Ransomware,plugin:callbacks,0.9124999,1.0
+Ransomware,plugin:callbacks,0.34249994,15.900099
+Ransomware,plugin:callbacks,0.65,1.0
+Ransomware,plugin:callbacks,1.3249999,1.0
+Ransomware,plugin:callbacks,0.24250002,9.939953
+Ransomware,plugin:callbacks,1.2850001,1.0
+Ransomware,plugin:callbacks,0.61,1.0
+Ransomware,plugin:callbacks,0.37,5.9139156
+Ransomware,plugin:callbacks,0.10250001,25.095037
+Ransomware,plugin:callbacks,1.09,1.0
+Ransomware,plugin:callbacks,0.685,1.0
+Ransomware,plugin:callbacks,1.0,1.0
+Ransomware,plugin:callbacks,0.032500003,45.76825
+Ransomware,plugin:callbacks,0.8425001,1.0
+Ransomware,plugin:callbacks,0.1325,19.547743
+Ransomware,plugin:callbacks,0.7924999,1.0
+Ransomware,plugin:callbacks,0.5825,1.0517244
+Ransomware,plugin:callbacks,0.76250005,1.6918985
+Ransomware,plugin:callbacks,0.96999997,1.0
+Ransomware,plugin:callbacks,0.085,35.114483
+Ransomware,plugin:callbacks,0.36,49.403687
+Ransomware,plugin:callbacks,0.7924999,1.0
+Ransomware,plugin:callbacks,0.53,1.7751157
+Ransomware,plugin:callbacks,1.2049999,1.0
+Ransomware,plugin:callbacks,0.54499996,1.832973
+Ransomware,plugin:callbacks,0.505,1.1889012
+Ransomware,plugin:callbacks,0.42499995,2.439278
+Ransomware,plugin:callbacks,0.145,31.290077
+Ransomware,plugin:callbacks,0.64250004,23.554369
+Ransomware,plugin:callbacks,0.22500002,26.9747
+Ransomware,plugin:callbacks,0.080000006,30.547163
+Ransomware,plugin:callbacks,0.34,9.171694
+Ransomware,plugin:callbacks,1.16,1.0
+Ransomware,plugin:callbacks,1.09,1.0
+Ransomware,plugin:callbacks,1.3725,1.0
+Ransomware,plugin:callbacks,0.46249998,1.698634
+Ransomware,plugin:callbacks,0.25,9.732793
+Ransomware,plugin:callbacks,0.085,26.80487
+Ransomware,plugin:callbacks,1.7124999,1.0
+Ransomware,plugin:callbacks,0.122499995,59.045036
+Ransomware,plugin:callbacks,0.68000007,1.0100394
+Ransomware,plugin:callbacks,1.16,1.0
+Ransomware,plugin:callbacks,0.81249994,1.0920057
+Ransomware,plugin:callbacks,0.9725,1.0
+Ransomware,plugin:callbacks,0.34249994,5.4735184
+Ransomware,plugin:callbacks,0.1525,21.444155
+Ransomware,plugin:callbacks,0.685,1.0
+Ransomware,plugin:callbacks,1.145,1.0
+Ransomware,plugin:callbacks,0.30249995,51.71895
+Ransomware,plugin:callbacks,0.16250001,17.416115
+Ransomware,plugin:callbacks,0.7225,1.8297592
+Ransomware,plugin:callbacks,0.3625,36.90565
+Ransomware,plugin:callbacks,1.1524999,1.0
+Ransomware,plugin:callbacks,0.31249994,7.8273706
+Ransomware,plugin:callbacks,0.45250002,1.9060884
+Ransomware,plugin:callbacks,0.16000001,18.860678
+Ransomware,plugin:callbacks,0.0025000002,57.940067
+Ransomware,plugin:callbacks,0.21250002,34.69883
+Ransomware,plugin:callbacks,1.6199999,1.0
+Ransomware,plugin:callbacks,0.032500003,40.080734
+Ransomware,plugin:callbacks,0.8324999,2.078301
+Ransomware,plugin:callbacks,0.020000001,47.2334
+Ransomware,plugin:callbacks,0.26500002,15.377749
+Ransomware,plugin:callbacks,0.13000001,26.873001
+Ransomware,plugin:callbacks,0.3625,4.3983164
+Ransomware,plugin:callbacks,0.4225,2.9612749
+Ransomware,plugin:callbacks,0.86499995,1.0
+Ransomware,plugin:callbacks,0.1625,24.88902
+Ransomware,plugin:callbacks,0.44499996,3.4538612
+Ransomware,plugin:callbacks,0.97999996,1.0
+Ransomware,plugin:callbacks,1.81,1.0
+Ransomware,plugin:callbacks,0.73,1.0
+Ransomware,plugin:callbacks,0.20250002,15.601197
+Ransomware,plugin:callbacks,1.0625,1.0
+Ransomware,plugin:callbacks,0.5825,1.0
+Ransomware,plugin:callbacks,1.5325,1.0
+Ransomware,plugin:callbacks,0.98499995,1.0
+Ransomware,plugin:callbacks,1.105,1.0
+Ransomware,plugin:callbacks,0.44499996,16.61728
+Ransomware,plugin:callbacks,0.0725,42.55303
+Ransomware,plugin:callbacks,1.025,1.0
+Ransomware,plugin:callbacks,1.2025,1.0
+Ransomware,plugin:callbacks,0.99249995,1.0
+Ransomware,plugin:callbacks,0.24499999,11.22907
+Ransomware,plugin:callbacks,1.25,1.0
+Ransomware,plugin:callbacks,0.61,1.0
+Ransomware,plugin:callbacks,0.7225,1.0
+Ransomware,plugin:callbacks,0.5125,2.3837998
+Ransomware,plugin:callbacks,0.725,19.056538
+Ransomware,plugin:callbacks,0.2825,8.160186
+Ransomware,plugin:callbacks,1.25,1.0
+Ransomware,plugin:callbacks,0.65250003,1.2191997
+Ransomware,plugin:callbacks,0.64000005,37.003582
+Ransomware,plugin:callbacks,1.2625,1.0
+Ransomware,plugin:callbacks,1.0625,1.0
+Ransomware,plugin:callbacks,1.3924999,1.0
+Ransomware,plugin:callbacks,1.04,1.0
+Ransomware,plugin:callbacks,1.7124999,1.0
+Ransomware,plugin:callbacks,1.3,1.0
+Ransomware,plugin:callbacks,2.0,1.0
+Ransomware,plugin:callbacks,0.9,1.0
+Ransomware,plugin:callbacks,0.6925,1.0
+Ransomware,plugin:callbacks,1.6400001,1.0
+Ransomware,plugin:callbacks,0.93249995,1.0
+Ransomware,plugin:callbacks,1.45,1.0
+Ransomware,plugin:callbacks,0.20000002,12.875623
+Ransomware,plugin:callbacks,0.2525,41.90878
+Ransomware,plugin:callbacks,0.045,38.516624
+Ransomware,plugin:callbacks,0.012500001,48.61557
+Ransomware,plugin:callbacks,1.3249999,1.0
+Ransomware,plugin:callbacks,0.6025,5.7473783
+Ransomware,plugin:callbacks,0.9425,1.0
+Ransomware,plugin:callbacks,0.32000002,6.6140614
+Ransomware,plugin:callbacks,1.805,1.0
+Ransomware,plugin:callbacks,0.8000001,1.0
+Ransomware,plugin:callbacks,0.42499995,34.038986
+Ransomware,plugin:callbacks,0.625,1.0
+Ransomware,plugin:callbacks,0.46249995,2.6453977
+Ransomware,plugin:callbacks,0.76250005,1.0
+Ransomware,plugin:callbacks,0.74,1.0
+Ransomware,plugin:callbacks,1.17,1.0
+Ransomware,plugin:callbacks,1.01,1.0
+Ransomware,plugin:callbacks,0.3125,13.215009
+Ransomware,plugin:callbacks,1.01,1.082235
+Ransomware,plugin:callbacks,0.0225,64.29352
+Ransomware,plugin:callbacks,1.2625,1.0
+Ransomware,plugin:callbacks,0.2525,11.434156
+Ransomware,plugin:callbacks,0.4225,8.777562
+Ransomware,plugin:callbacks,0.112500004,33.25879
+Ransomware,plugin:callbacks,1.105,1.0
+Ransomware,plugin:callbacks,0.0925,25.255987
+Spyware,known,0.2125,12.961705
+Spyware,known,0.36499995,4.367636
+Spyware,known,0.5125,13.665091
+Spyware,known,0.122499995,22.56215
+Spyware,known,1.0525,1.0
+Spyware,known,1.49,1.0
+Spyware,known,0.81999993,1.0000591
+Spyware,known,0.61249995,1.1130327
+Spyware,known,0.5625,1.0182992
+Spyware,known,0.93249995,1.0
+Spyware,known,0.54499996,1.0770088
+Spyware,known,0.25,53.811996
+Spyware,known,0.87249994,1.0
+Spyware,known,0.7924999,1.0
+Spyware,known,0.080000006,30.545765
+Spyware,known,0.565,2.8092265
+Spyware,known,0.20250002,55.71416
+Spyware,known,0.67249995,1.0
+Spyware,known,0.42499995,4.4408092
+Spyware,known,0.16250001,46.122334
+Spyware,known,1.16,1.0
+Spyware,known,1.3025,1.0
+Spyware,known,0.34,9.170444
+Spyware,known,0.1,23.69321
+Spyware,known,0.2825,8.158913
+Spyware,known,0.61249995,1.0
+Spyware,known,1.2049999,1.0
+Spyware,known,0.73,1.0
+Spyware,known,0.34249994,5.472369
+Spyware,known,0.46249998,2.5287056
+Spyware,known,0.112500004,22.07138
+Spyware,known,1.17,1.0
+Spyware,known,0.44499996,16.61611
+Spyware,known,0.21250002,34.697853
+Spyware,known,0.20000002,12.874142
+Spyware,known,0.0225,64.29352
+Spyware,known,0.49999997,3.1039147
+Spyware,known,0.32000002,6.6128716
+Spyware,known,0.12499999,47.98962
+Spyware,known,0.0025000002,57.939613
+Spyware,known,0.42499995,34.03841
+Spyware,known,0.3125,13.213684
+Spyware,known,0.54499996,1.8324518
+Spyware,known,1.4649999,1.0
+Spyware,known,0.5725,2.1651654
+Spyware,known,0.81249994,1.0917909
+Spyware,known,0.48999998,4.779502
+Spyware,known,1.36,1.0
+Spyware,known,1.025,1.0
+Spyware,known,1.01,1.0821264
+Spyware,known,0.61,1.0
+Spyware,known,0.81249994,12.694904
+Spyware,known,0.8125,1.0
+Spyware,known,0.4,3.868789
+Spyware,known,1.13,1.0
+Spyware,known,0.98499995,1.0
+Spyware,known,0.765,1.0
+Spyware,known,0.25,9.731448
+Spyware,known,0.112500004,33.257595
+Spyware,known,0.8324999,1.0
+Spyware,known,0.145,31.288853
+Spyware,known,1.0124999,1.0
+Spyware,known,0.5124999,3.6343043
+Spyware,known,1.2625,1.0
+Spyware,known,0.13000001,20.387894
+Spyware,known,1.0625,1.0
+Spyware,known,1.0625,1.0
+Spyware,known,0.39249995,3.344452
+Spyware,known,0.30249995,10.261148
+Spyware,known,1.5625,1.0
+Spyware,known,0.12499999,21.07828
+Spyware,known,0.76250005,1.6915163
+Spyware,known,0.49249998,3.9098594
+Spyware,known,0.76250005,1.0
+Spyware,known,0.6625,1.175807
+Spyware,known,1.5625,1.0
+Spyware,known,0.68000007,3.4005008
+Spyware,known,0.065,30.003326
+Spyware,known,0.625,1.0234
+Spyware,known,0.065,51.33048
+Spyware,known,1.04,1.0
+Spyware,known,0.76250005,1.0
+Spyware,known,0.37,27.132399
+Spyware,known,0.085,35.113327
+Spyware,known,1.25,1.0
+Spyware,known,0.89000005,1.0
+Spyware,known,0.9124999,1.0
+Spyware,known,0.9425,1.0
+Spyware,known,0.48499995,1.9512353
+Spyware,known,1.1225,1.0
+Spyware,known,0.1325,38.894318
+Spyware,known,1.805,1.0
+Spyware,known,0.30499995,9.039592
+Spyware,known,0.5125,2.3830633
+Spyware,known,0.58,1.0448847
+Spyware,known,0.505,1.4067405
+Spyware,known,0.30249995,51.71895
+Spyware,known,1.3924999,1.0
+Spyware,known,0.3625,5.1251726
+Spyware,known,1.81,1.0
+Spyware,known,1.105,1.0
+Spyware,known,0.25,13.071784
+Spyware,known,0.29250002,11.128579
+Spyware,known,0.86499995,1.0
+Spyware,known,0.16000001,57.451355
+Spyware,known,0.8425001,1.0
+Spyware,known,0.3725,6.0465207
+Spyware,known,0.185,19.497675
+Spyware,known,0.48999998,43.944286
+Spyware,known,0.025,41.559826
+Spyware,known,0.9425,1.0
+Spyware,known,0.66249996,1.0
+Spyware,known,1.0625,1.0
+Spyware,known,1.0225,1.0
+Spyware,known,0.8425001,1.0
+Spyware,known,0.48250002,1.5372138
+Spyware,known,1.3625001,1.0
+Spyware,known,1.3725,1.0
+Spyware,known,0.1525,21.442698
+Spyware,known,0.10250001,28.755749
+Spyware,known,0.85,1.0
+Spyware,known,1.5425,1.0
+Spyware,known,0.92499995,1.0
+Spyware,known,0.99249995,1.0
+Spyware,known,0.65250003,1.2189324
+Spyware,known,0.5,1.2798274
+Spyware,known,0.85,1.0
+Spyware,known,0.9250001,1.0
+Spyware,known,0.5825,1.0
+Spyware,known,1.49,1.0
+Spyware,known,0.41000003,2.7754517
+Spyware,known,1.2125,1.0
+Spyware,known,1.45,1.0
+Spyware,known,1.06,1.0
+Spyware,known,1.6199999,1.0
+Spyware,known,1.5325,1.0
+Spyware,known,0.2525,11.432657
+Spyware,known,0.49249998,30.88307
+Spyware,known,0.0925,25.254404
+Spyware,known,0.38250002,4.8611393
+Spyware,known,0.625,1.0
+Spyware,known,0.22250001,17.47419
+Spyware,known,1.04,1.0
+Spyware,known,0.845,1.0
+Spyware,known,0.64250004,23.55375
+Spyware,known,0.5525,1.313387
+Spyware,known,0.9025,16.64446
+Spyware,known,0.3625,4.3973165
+Spyware,known,0.97999996,1.0
+Spyware,known,0.44499996,3.4529228
+Spyware,known,1.9024999,1.0
+Spyware,known,0.64000005,2.559041
+Spyware,known,0.185,14.668484
+Spyware,known,0.625,1.0
+Spyware,known,1.145,1.0
+Spyware,known,1.5325,1.0
+Spyware,known,0.16250001,17.41452
+Spyware,known,0.45250002,2.1749926
+Spyware,known,0.565,27.40087
+Spyware,known,1.0625,1.0
+Spyware,known,0.725,19.05588
+Spyware,known,1.3725,1.0
+Spyware,known,0.24250002,20.605473
+Spyware,known,0.8125,1.0
+Spyware,known,1.3,1.0
+Spyware,known,0.0225,42.96427
+Spyware,known,0.78249997,1.0
+Spyware,known,0.91249996,2.5454772
+Spyware,known,0.26,32.36219
+Spyware,known,0.42249995,46.827682
+Spyware,known,0.5124999,1.4116908
+Spyware,known,0.91249996,1.0
+Spyware,known,0.87249994,1.0
+Spyware,known,0.685,1.0
+Spyware,known,0.68000007,1.0099682
+Spyware,known,1.3,1.0
+Spyware,known,0.1,40.784027
+Spyware,known,0.845,1.0
+Spyware,known,0.0625,61.86744
+Spyware,known,0.36499995,11.003588
+Spyware,known,0.64000005,37.003582
+Spyware,known,1.6400001,1.0
+Spyware,known,1.3249999,1.0
+Spyware,known,0.13000001,26.871624
+Spyware,known,0.22500002,26.973503
+Spyware,known,0.32500002,7.7427716
+Spyware,known,0.17000002,36.86993
+Spyware,known,0.8449999,1.0
+Spyware,known,0.905,1.0
+Spyware,known,0.032500003,45.76734
+Spyware,known,1.7124999,1.0
+Spyware,known,0.80999994,26.096926
+Spyware,known,0.010000001,49.91918
+Spyware,known,0.025,54.232727
+Spyware,known,0.1525,18.643503
+Spyware,known,0.99249995,1.0
+Spyware,known,0.2525,41.908077
+Spyware,known,0.725,1.414817
+Spyware,known,0.1825,14.41828
+Spyware,known,1.2025001,1.0
+Spyware,novel (LOTO),0.4,3.9125984
+Spyware,novel (LOTO),0.5825,1.0
+Spyware,novel (LOTO),0.9425,1.0
+Spyware,novel (LOTO),0.145,31.342712
+Spyware,novel (LOTO),0.52000004,1.1339233
+Spyware,novel (LOTO),0.032500003,40.13111
+Spyware,novel (LOTO),0.30249995,51.71895
+Spyware,novel (LOTO),0.30499995,39.545967
+Spyware,novel (LOTO),1.625,1.0
+Spyware,novel (LOTO),0.18,16.904797
+Spyware,novel (LOTO),1.17,1.0
+Spyware,novel (LOTO),0.64250004,2.0115821
+Spyware,novel (LOTO),0.42249995,6.3573933
+Spyware,novel (LOTO),0.2725,8.853852
+Spyware,novel (LOTO),0.78249997,1.0
+Spyware,novel (LOTO),2.0,1.0
+Spyware,novel (LOTO),1.3249999,1.0
+Spyware,novel (LOTO),0.12499999,48.015396
+Spyware,novel (LOTO),0.22250001,17.536785
+Spyware,novel (LOTO),1.25,1.0
+Spyware,novel (LOTO),0.58,1.05163
+Spyware,novel (LOTO),0.1525,21.507183
+Spyware,novel (LOTO),0.8000001,1.0
+Spyware,novel (LOTO),0.3625,36.933434
+Spyware,novel (LOTO),0.7924999,1.0
+Spyware,novel (LOTO),0.44499996,16.667404
+Spyware,novel (LOTO),0.64250004,23.582804
+Spyware,novel (LOTO),0.74,1.0
+Spyware,novel (LOTO),0.7249999,1.0
+Spyware,novel (LOTO),0.3125,6.256775
+Spyware,novel (LOTO),0.965,1.0
+Spyware,novel (LOTO),1.3025,1.0
+Spyware,novel (LOTO),0.46249998,2.5599177
+Spyware,novel (LOTO),1.7124999,1.0
+Spyware,novel (LOTO),1.0025,3.1138072
+Spyware,novel (LOTO),0.81999993,1.0005718
+Spyware,novel (LOTO),0.785,1.0
+Spyware,novel (LOTO),1.7225001,1.0
+Spyware,novel (LOTO),0.9225,1.0
+Spyware,novel (LOTO),0.8324999,2.0940087
+Spyware,novel (LOTO),0.91249996,1.0
+Spyware,novel (LOTO),1.3025,1.0
+Spyware,novel (LOTO),0.020000001,47.27224
+Spyware,novel (LOTO),0.61249995,1.122186
+Spyware,novel (LOTO),1.2625,1.0
+Spyware,novel (LOTO),0.1325,19.61613
+Spyware,novel (LOTO),0.84999996,1.0
+Spyware,novel (LOTO),0.25,9.792047
+Spyware,novel (LOTO),1.0124999,1.0
+Spyware,novel (LOTO),0.585,10.661331
+Spyware,novel (LOTO),0.2725,24.663002
+Spyware,novel (LOTO),1.2850001,1.0
+Spyware,novel (LOTO),1.0625,1.0
+Spyware,novel (LOTO),1.2850001,1.0
+Spyware,novel (LOTO),0.68000007,1.0133724
+Spyware,novel (LOTO),1.2049999,1.0
+Spyware,novel (LOTO),0.81249994,12.720839
+Spyware,novel (LOTO),0.85,1.0
+Spyware,novel (LOTO),1.1225,1.0
+Spyware,novel (LOTO),1.145,1.0
+Spyware,novel (LOTO),0.0025000002,57.961952
+Spyware,novel (LOTO),0.09,60.51209
+Spyware,novel (LOTO),0.6925,1.0
+Spyware,novel (LOTO),0.34249994,5.5236635
+Spyware,novel (LOTO),0.5125,13.714179
+Spyware,novel (LOTO),0.7325,1.1399057
+Spyware,novel (LOTO),0.685,1.0
+Spyware,novel (LOTO),0.8125,1.0
+Spyware,novel (LOTO),1.1524999,1.0
+Spyware,novel (LOTO),0.050000004,44.251266
+Spyware,novel (LOTO),0.37,27.177126
+Spyware,novel (LOTO),1.3625001,1.0
+Spyware,novel (LOTO),0.80999994,1.3525878
+Spyware,novel (LOTO),0.45250002,2.2035236
+Spyware,novel (LOTO),0.0225,64.29352
+Spyware,novel (LOTO),0.89000005,1.0
+Spyware,novel (LOTO),0.0725,28.503841
+Spyware,novel (LOTO),0.65000004,14.093818
+Spyware,novel (LOTO),0.36499995,4.413673
+Spyware,novel (LOTO),0.26,32.406487
+Spyware,novel (LOTO),0.66249996,1.0
+Spyware,novel (LOTO),1.9024999,1.0
+Spyware,novel (LOTO),0.25,12.813449
+Spyware,novel (LOTO),0.8425001,1.0
+Spyware,novel (LOTO),0.31249994,7.8855863
+Spyware,novel (LOTO),0.49999997,21.092657
+Spyware,novel (LOTO),0.92499995,1.007727
+Spyware,novel (LOTO),0.3125,13.272379
+Spyware,novel (LOTO),0.86499995,1.0
+Spyware,novel (LOTO),0.53,1.8000722
+Spyware,novel (LOTO),0.9250001,1.0
+Spyware,novel (LOTO),0.9725,1.0
+Spyware,novel (LOTO),1.0625,1.0
+Spyware,novel (LOTO),0.9124999,1.0
+Spyware,novel (LOTO),1.45,1.0
+Spyware,novel (LOTO),0.025,54.25643
+Spyware,novel (LOTO),0.16250001,46.148613
+Spyware,novel (LOTO),0.85,1.0
+Spyware,novel (LOTO),0.5124999,1.4306133
+Spyware,novel (LOTO),1.5325,1.0
+Spyware,novel (LOTO),0.78249997,1.0
+Spyware,novel (LOTO),0.24499999,11.289142
+Spyware,novel (LOTO),0.39249995,3.3842318
+Spyware,novel (LOTO),0.2825,8.215773
+Spyware,novel (LOTO),1.5325,1.0
+Spyware,novel (LOTO),0.29250002,11.187517
+Spyware,novel (LOTO),0.185,19.561481
+Spyware,novel (LOTO),0.4,13.457142
+Spyware,novel (LOTO),0.25,13.133537
+Spyware,novel (LOTO),0.17000002,36.913372
+Spyware,novel (LOTO),0.17000002,16.002604
+Spyware,novel (LOTO),0.085,35.166462
+Spyware,novel (LOTO),0.9225,1.0
+Spyware,novel (LOTO),0.43249995,24.248934
+Spyware,novel (LOTO),1.445,1.0
+Spyware,novel (LOTO),0.9725,1.0
+Spyware,novel (LOTO),0.97999996,1.0
+Spyware,novel (LOTO),0.70250005,1.0
+Spyware,novel (LOTO),1.36,1.0
+Spyware,novel (LOTO),0.44499996,3.4945621
+Spyware,novel (LOTO),0.93249995,1.0
+Spyware,novel (LOTO),0.585,1.6537815
+Spyware,novel (LOTO),0.042500004,52.854294
+Spyware,novel (LOTO),1.0825,1.0
+Spyware,novel (LOTO),0.065,51.355164
+Spyware,novel (LOTO),0.9,1.0
+Spyware,novel (LOTO),1.1125,1.0
+Spyware,novel (LOTO),1.3625001,1.0
+Spyware,novel (LOTO),0.16000001,57.451355
+Spyware,novel (LOTO),0.45000002,5.402335
+Spyware,novel (LOTO),1.625,1.0
+Spyware,novel (LOTO),0.112500004,22.139666
+Spyware,novel (LOTO),0.29,7.542014
+Spyware,novel (LOTO),0.8125,1.0
+Spyware,novel (LOTO),0.22250001,11.371927
+Spyware,novel (LOTO),0.0625,31.565384
+Spyware,novel (LOTO),1.3924999,1.0
+Spyware,novel (LOTO),0.965,1.0
+Spyware,novel (LOTO),0.20500001,44.12883
+Spyware,novel (LOTO),0.61,1.0
+Spyware,novel (LOTO),0.74,1.0
+Spyware,novel (LOTO),0.81999993,5.4333725
+Spyware,novel (LOTO),1.5425,1.0
+Spyware,novel (LOTO),1.025,1.0
+Spyware,novel (LOTO),0.20000002,12.940182
+Spyware,novel (LOTO),1.2025001,1.0
+Spyware,novel (LOTO),0.24250002,20.664995
+Spyware,novel (LOTO),1.81,1.0
+Spyware,novel (LOTO),1.09,1.0
+Spyware,novel (LOTO),0.16000001,18.930908
+Spyware,novel (LOTO),0.0,67.36122
+Spyware,novel (LOTO),0.46249995,2.6797998
+Spyware,novel (LOTO),0.52000004,1.6040686
+Spyware,novel (LOTO),1.2025,1.0
+Spyware,novel (LOTO),0.5625,1.0223967
+Spyware,novel (LOTO),0.9025,1.0717635
+Spyware,novel (LOTO),0.6049999,1.0
+Spyware,novel (LOTO),1.06,1.0
+Spyware,novel (LOTO),1.105,1.0
+Spyware,novel (LOTO),1.2324998,1.0
+Spyware,novel (LOTO),0.49999997,3.1433902
+Spyware,novel (LOTO),0.085,26.868872
+Spyware,novel (LOTO),0.725,1.4344954
+Spyware,novel (LOTO),1.2324998,1.0
+Spyware,novel (LOTO),0.565,2.8466167
+Spyware,novel (LOTO),1.0525,1.0
+Spyware,novel (LOTO),1.3,1.0
+Spyware,novel (LOTO),1.36,1.0
+Spyware,novel (LOTO),0.905,1.0
+Spyware,novel (LOTO),0.99249995,1.0
+Spyware,novel (LOTO),0.34,9.225758
+Spyware,novel (LOTO),0.1625,16.406124
+Spyware,novel (LOTO),1.09,1.0
+Spyware,novel (LOTO),1.0,1.0
+Spyware,novel (LOTO),0.54499996,1.8555946
+Spyware,novel (LOTO),1.0625,1.0
+Spyware,novel (LOTO),0.55249995,1.0051359
+Spyware,novel (LOTO),0.76250005,1.0
+Spyware,novel (LOTO),0.145,18.034338
+Spyware,novel (LOTO),0.1,40.82627
+Spyware,novel (LOTO),0.040000003,36.92941
+Spyware,novel (LOTO),1.2025,1.0
+Spyware,novel (LOTO),0.70250005,1.4120283
+Spyware,novel (LOTO),1.2125,1.0
+Spyware,novel (LOTO),0.20000002,22.860128
+Spyware,novel (LOTO),1.2800001,1.0
+Spyware,novel (LOTO),0.41000003,3.781489
+Spyware,novel (LOTO),0.5625,3.5806525
+Spyware,novel (LOTO),0.87249994,1.0
+Spyware,novel (LOTO),0.32500002,5.7568383
+Spyware,novel (LOTO),1.7124999,1.0
+Spyware,novel (LOTO),0.0225,43.01456
+Spyware,novel (LOTO),0.20250002,55.71416
+Spyware,novel (LOTO),0.8000001,1.0
+Spyware,novel (LOTO),0.7225,32.782635
+Spyware,novel (LOTO),0.93249995,1.0
+Spyware,novel (LOTO),0.20250002,15.67052
+Spyware,novel (LOTO),1.105,1.0
+Spyware,novel (LOTO),1.6400001,1.0
+Spyware,novel (LOTO),0.1,23.761906
+Spyware,plugin:callbacks,1.45,1.0
+Spyware,plugin:callbacks,0.2725,24.61288
+Spyware,plugin:callbacks,0.1,40.78717
+Spyware,plugin:callbacks,0.85,1.0
+Spyware,plugin:callbacks,0.26,10.117365
+Spyware,plugin:callbacks,0.9250001,1.0
+Spyware,plugin:callbacks,1.3025,1.0
+Spyware,plugin:callbacks,0.86499995,1.0
+Spyware,plugin:callbacks,1.36,1.0
+Spyware,plugin:callbacks,1.3,1.0
+Spyware,plugin:callbacks,0.145,31.292856
+Spyware,plugin:callbacks,0.68000007,3.4027178
+Spyware,plugin:callbacks,0.7249999,1.0
+Spyware,plugin:callbacks,0.80999994,26.096926
+Spyware,plugin:callbacks,0.4225,8.780209
+Spyware,plugin:callbacks,1.2025001,1.0
+Spyware,plugin:callbacks,0.58,1.0453683
+Spyware,plugin:callbacks,0.0725,28.44333
+Spyware,plugin:callbacks,0.20250002,55.71416
+Spyware,plugin:callbacks,0.10250001,28.760237
+Spyware,plugin:callbacks,0.4,3.8720222
+Spyware,plugin:callbacks,0.0,67.36122
+Spyware,plugin:callbacks,1.9024999,1.0
+Spyware,plugin:callbacks,0.5,1.2809331
+Spyware,plugin:callbacks,1.0625,1.0
+Spyware,plugin:callbacks,0.5825,1.0
+Spyware,plugin:callbacks,0.1,23.6983
+Spyware,plugin:callbacks,1.0625,1.0
+Spyware,plugin:callbacks,0.6925,1.0
+Spyware,plugin:callbacks,0.9250001,1.0
+Spyware,plugin:callbacks,1.2324998,1.0
+Spyware,plugin:callbacks,0.065,30.008156
+Spyware,plugin:callbacks,0.48250002,1.5387645
+Spyware,plugin:callbacks,0.20000002,22.80442
+Spyware,plugin:callbacks,1.81,1.0
+Spyware,plugin:callbacks,0.76250005,1.0
+Spyware,plugin:callbacks,0.20500001,14.218113
+Spyware,plugin:callbacks,1.7124999,1.0
+Spyware,plugin:callbacks,1.2625,1.0
+Spyware,plugin:callbacks,0.9425,1.0
+Spyware,plugin:callbacks,1.5625,1.0
+Spyware,plugin:callbacks,0.042500004,52.831917
+Spyware,plugin:callbacks,0.17000002,36.87317
+Spyware,plugin:callbacks,0.42499995,34.040543
+Spyware,plugin:callbacks,0.98499995,1.0
+Spyware,plugin:callbacks,1.2125,1.0
+Spyware,plugin:callbacks,1.17,1.0
+Spyware,plugin:callbacks,0.905,6.812912
+Spyware,plugin:callbacks,0.9,1.0
+Spyware,plugin:callbacks,0.81999993,5.4097614
+Spyware,plugin:callbacks,0.89000005,1.0
+Spyware,plugin:callbacks,1.3725,1.0
+Spyware,plugin:callbacks,0.87249994,1.0
+Spyware,plugin:callbacks,0.78249997,1.0
+Spyware,plugin:callbacks,0.8125,1.0
+Spyware,plugin:callbacks,1.01,1.0
+Spyware,plugin:callbacks,1.0625,1.0
+Spyware,plugin:callbacks,0.42499995,2.4409342
+Spyware,plugin:callbacks,0.49999997,3.1068244
+Spyware,plugin:callbacks,0.64250004,23.55587
+Spyware,plugin:callbacks,0.36,49.403687
+Spyware,plugin:callbacks,0.76250005,1.6927743
+Spyware,plugin:callbacks,1.5325,1.0
+Spyware,plugin:callbacks,0.965,1.0
+Spyware,plugin:callbacks,1.0,1.0
+Spyware,plugin:callbacks,1.2625,1.0
+Spyware,plugin:callbacks,0.24250002,9.943168
+Spyware,plugin:callbacks,0.565,2.8119767
+Spyware,plugin:callbacks,0.5625,1.0185885
+Spyware,plugin:callbacks,0.24250002,20.609877
+Spyware,plugin:callbacks,0.42249995,6.3053937
+Spyware,plugin:callbacks,0.7225,1.0
+Spyware,plugin:callbacks,1.3249999,1.0
+Spyware,plugin:callbacks,0.2725,8.797157
+Spyware,plugin:callbacks,0.42249995,46.827682
+Spyware,plugin:callbacks,0.0225,42.967987
+Spyware,plugin:callbacks,0.3125,13.218026
+Spyware,plugin:callbacks,0.1525,18.648449
+Spyware,plugin:callbacks,0.91249996,1.0
+Spyware,plugin:callbacks,0.2125,12.966457
+Spyware,plugin:callbacks,0.8324999,1.0
+Spyware,plugin:callbacks,0.965,1.0
+Spyware,plugin:callbacks,1.13,1.0
+Spyware,plugin:callbacks,1.0625,1.0
+Spyware,plugin:callbacks,1.6199999,1.0
+Spyware,plugin:callbacks,0.9425,1.0
+Spyware,plugin:callbacks,0.122499995,22.56742
+Spyware,plugin:callbacks,0.6025,5.7494807
+Spyware,plugin:callbacks,0.31249994,7.83043
+Spyware,plugin:callbacks,0.49249998,3.9131813
+Spyware,plugin:callbacks,0.26500002,8.507543
+Spyware,plugin:callbacks,0.13000001,20.392904
+Spyware,plugin:callbacks,0.9225,1.0
+Spyware,plugin:callbacks,0.37,27.135706
+Spyware,plugin:callbacks,0.785,1.0
+Spyware,plugin:callbacks,0.87249994,1.0
+Spyware,plugin:callbacks,0.34,9.174529
+Spyware,plugin:callbacks,0.20000002,12.87902
+Spyware,plugin:callbacks,0.1825,14.423301
+Spyware,plugin:callbacks,1.025,1.0
+Spyware,plugin:callbacks,0.22500002,26.977495
+Spyware,plugin:callbacks,0.42499995,5.305582
+Spyware,plugin:callbacks,1.0124999,1.0
+Spyware,plugin:callbacks,1.105,1.0
+Spyware,plugin:callbacks,0.185,19.502377
+Spyware,plugin:callbacks,0.84999996,1.0
+Spyware,plugin:callbacks,0.17000002,15.938375
+Spyware,plugin:callbacks,1.3249999,1.0
+Spyware,plugin:callbacks,0.7924999,1.0
+Spyware,plugin:callbacks,0.18,16.844177
+Spyware,plugin:callbacks,0.1625,24.892138
+Spyware,plugin:callbacks,0.24499999,11.2322035
+Spyware,plugin:callbacks,1.3625001,1.0
+Spyware,plugin:callbacks,0.9425,1.0
+Spyware,plugin:callbacks,1.2025,1.0
+Spyware,plugin:callbacks,0.16000001,18.864382
+Spyware,plugin:callbacks,1.0025,1.0
+Spyware,plugin:callbacks,0.0725,42.555183
+Spyware,plugin:callbacks,0.34249994,5.476158
+Spyware,plugin:callbacks,1.01,1.0824802
+Spyware,plugin:callbacks,0.125,23.312332
+Spyware,plugin:callbacks,1.49,1.0
+Spyware,plugin:callbacks,0.7225,1.0
+Spyware,plugin:callbacks,0.7225,1.8311439
+Spyware,plugin:callbacks,0.53,1.7764205
+Spyware,plugin:callbacks,1.5425,1.0
+Spyware,plugin:callbacks,0.55249995,1.0
+Spyware,plugin:callbacks,0.9124999,1.0
+Spyware,plugin:callbacks,0.13000001,26.876125
+Spyware,plugin:callbacks,0.0625,36.866955
+Spyware,plugin:callbacks,0.9425,1.0
+Spyware,plugin:callbacks,1.3924999,1.0
+Spyware,plugin:callbacks,0.5525,1.314617
+Spyware,plugin:callbacks,1.7225001,1.0
+Spyware,plugin:callbacks,1.13,1.0
+Spyware,plugin:callbacks,0.48999998,4.7831945
+Spyware,plugin:callbacks,0.9725,1.0
+Spyware,plugin:callbacks,0.45250002,2.1770883
+Spyware,plugin:callbacks,0.45250002,1.9074122
+Spyware,plugin:callbacks,0.0925,49.72325
+Spyware,plugin:callbacks,0.65,1.0
+Spyware,plugin:callbacks,0.10250001,25.098398
+Spyware,plugin:callbacks,0.74,1.0
+Spyware,plugin:callbacks,0.8125,1.0
+Spyware,plugin:callbacks,0.46249998,2.5310109
+Spyware,plugin:callbacks,0.2825,8.163091
+Spyware,plugin:callbacks,1.3,1.0
+Spyware,plugin:callbacks,0.32499996,22.100187
+Spyware,plugin:callbacks,0.905,1.0
+Spyware,plugin:callbacks,0.5525,4.512638
+Spyware,plugin:callbacks,0.5125,13.668739
+Spyware,plugin:callbacks,0.8125,1.0
+Spyware,plugin:callbacks,0.76250005,1.0
+Spyware,plugin:callbacks,1.3924999,1.0
+Spyware,plugin:callbacks,1.0525,1.0
+Spyware,plugin:callbacks,0.685,1.0
+Spyware,plugin:callbacks,0.43249995,24.207684
+Spyware,plugin:callbacks,0.36499995,4.3710337
+Spyware,plugin:callbacks,0.3625,4.4006
+Spyware,plugin:callbacks,0.625,2.7014573
+Spyware,plugin:callbacks,0.64250004,1.9848021
+Spyware,plugin:callbacks,0.44499996,3.4560006
+Spyware,plugin:callbacks,0.025,54.234493
+Spyware,plugin:callbacks,0.8125,1.0
+Spyware,plugin:callbacks,1.805,1.0
+Spyware,plugin:callbacks,0.8425001,1.0
+Spyware,plugin:callbacks,0.52000004,1.1240658
+Spyware,plugin:callbacks,0.5825,1.0520506
+Spyware,plugin:callbacks,1.09,1.0
+Spyware,plugin:callbacks,0.012500001,48.617573
+Spyware,plugin:callbacks,1.06,1.0
+Spyware,plugin:callbacks,1.0525,1.0
+Spyware,plugin:callbacks,0.40500003,3.2029643
+Spyware,plugin:callbacks,0.32000002,6.616743
+Spyware,plugin:callbacks,0.16250001,46.12424
+Spyware,plugin:callbacks,0.26500002,15.380907
+Spyware,plugin:callbacks,0.30249995,10.265989
+Spyware,plugin:callbacks,0.845,1.0
+Spyware,plugin:callbacks,1.4649999,1.0
+Spyware,plugin:callbacks,1.36,1.0
+Spyware,plugin:callbacks,1.0,1.0
+Spyware,plugin:callbacks,0.92499995,1.0
+Spyware,plugin:callbacks,0.8000001,1.0
+Spyware,plugin:callbacks,0.20500001,44.10398
+Spyware,plugin:callbacks,0.46249998,1.6998252
+Spyware,plugin:callbacks,1.2850001,1.0
+Spyware,plugin:callbacks,0.25,13.076347
+Spyware,plugin:callbacks,0.9225,1.0
+Spyware,plugin:callbacks,1.1225,1.0
+Spyware,plugin:callbacks,0.38250002,4.864768
+Spyware,plugin:callbacks,0.81999993,1.0000805
+Spyware,plugin:callbacks,1.0625,1.0
+Spyware,plugin:callbacks,0.785,1.0
+Spyware,plugin:callbacks,0.145,17.970497
+Spyware,plugin:callbacks,1.025,1.0
+Spyware,plugin:callbacks,1.1524999,1.0
+Spyware,plugin:callbacks,1.2025,1.0
+Spyware,plugin:callbacks,0.010000001,49.922035
+Spyware,plugin:callbacks,0.020000001,47.235455
+Spyware,plugin:callbacks,1.5425,1.0
+Trojan,known,0.5525,1.313387
+Trojan,known,1.25,1.0
+Trojan,known,1.13,1.0
+Trojan,known,1.13,1.0
+Trojan,known,0.91249996,2.5454772
+Trojan,known,1.49,1.0
+Trojan,known,0.93249995,1.0
+Trojan,known,0.65000004,1.5120692
+Trojan,known,0.76250005,1.0
+Trojan,known,1.805,1.0
+Trojan,known,0.36499995,4.367636
+Trojan,known,0.0725,42.55211
+Trojan,known,1.0625,1.0
+Trojan,known,0.8000001,1.0
+Trojan,known,0.42249995,6.3012547
+Trojan,known,1.1125,1.0
+Trojan,known,1.04,1.0
+Trojan,known,0.58,1.0448847
+Trojan,known,1.625,1.0
+Trojan,known,0.61,1.0
+Trojan,known,1.5325,1.0
+Trojan,known,0.65,1.0
+Trojan,known,0.64000005,37.003582
+Trojan,known,0.24499999,11.22768
+Trojan,known,0.5125,2.3830633
+Trojan,known,0.8324999,2.0779376
+Trojan,known,0.6025,5.7464833
+Trojan,known,0.9250001,1.0
+Trojan,known,0.7225,1.8291619
+Trojan,known,0.3625,4.3973165
+Trojan,known,1.2324998,1.0
+Trojan,known,0.48499995,6.5832896
+Trojan,known,0.050000004,33.86494
+Trojan,known,1.3924999,1.0
+Trojan,known,0.74,1.0
+Trojan,known,0.39249995,7.229915
+Trojan,known,0.99249995,1.0
+Trojan,known,0.16250001,46.122334
+Trojan,known,0.42499995,4.4408092
+Trojan,known,0.26,10.112607
+Trojan,known,1.0,8.553302
+Trojan,known,1.3625001,1.0
+Trojan,known,0.52000004,1.5837404
+Trojan,known,0.3725,3.8151257
+Trojan,known,0.34,4.9707775
+Trojan,known,0.4225,2.960438
+Trojan,known,0.21250002,34.697853
+Trojan,known,0.625,1.0234
+Trojan,known,0.0025000002,57.939613
+Trojan,known,0.42499995,34.038414
+Trojan,known,1.1125,1.0
+Trojan,known,0.48999998,4.779502
+Trojan,known,0.53,1.7745463
+Trojan,known,0.32499996,6.631858
+Trojan,known,0.85,1.0
+Trojan,known,0.91249996,1.0
+Trojan,known,0.025,41.559826
+Trojan,known,0.16000001,18.859072
+Trojan,known,0.99249995,1.0
+Trojan,known,0.70250005,1.0
+Trojan,known,0.112500004,33.257595
+Trojan,known,0.34,9.170444
+Trojan,known,0.92499995,1.0060141
+Trojan,known,0.78249997,1.0
+Trojan,known,1.25,1.0
+Trojan,known,1.0,1.0
+Trojan,known,0.70250005,1.396982
+Trojan,known,0.6049999,1.0
+Trojan,known,0.785,1.0
+Trojan,known,0.38250002,4.8611393
+Trojan,known,0.7249999,1.0
+Trojan,known,0.25,53.811996
+Trojan,known,0.52000004,1.1232975
+Trojan,known,0.16000001,57.451355
+Trojan,known,1.09,1.0
+Trojan,known,0.76250005,1.0
+Trojan,known,0.72,1.0
+Trojan,known,0.080000006,30.545765
+Trojan,known,0.36,49.403687
+Trojan,known,1.2850001,1.0
+Trojan,known,0.2125,12.961705
+Trojan,known,0.64250004,23.55375
+Trojan,known,0.0050000004,56.780087
+Trojan,known,1.025,1.0
+Trojan,known,0.9425,1.0
+Trojan,known,0.32500002,5.7064333
+Trojan,known,0.49249998,3.9098594
+Trojan,known,0.6925,1.0
+Trojan,known,0.93249995,1.0
+Trojan,known,0.46249998,1.6981043
+Trojan,known,1.0625,1.0
+Trojan,known,0.745,4.288106
+Trojan,known,1.16,1.0
+Trojan,known,0.89000005,1.0
+Trojan,known,1.2125,1.0
+Trojan,known,0.8425001,1.0
+Trojan,known,0.68000007,1.0099682
+Trojan,known,0.0225,42.96427
+Trojan,known,1.0225,1.0
+Trojan,known,0.010000001,49.91918
+Trojan,known,0.685,1.0
+Trojan,known,0.9124999,1.0
+Trojan,known,1.5625,1.0
+Trojan,known,2.0,1.0
+Trojan,known,1.2625,1.0
+Trojan,known,0.24250002,9.938541
+Trojan,known,0.30249995,10.261148
+Trojan,known,0.8125,1.0
+Trojan,known,0.1825,29.19709
+Trojan,known,1.0225,1.0
+Trojan,known,0.8425001,1.0
+Trojan,known,1.06,1.0
+Trojan,known,0.4,3.868789
+Trojan,known,0.012500001,55.546318
+Trojan,known,0.1525,21.442698
+Trojan,known,0.20000002,12.874142
+Trojan,known,0.42249995,46.827682
+Trojan,known,0.54499996,1.8324518
+Trojan,known,0.042500004,35.404274
+Trojan,known,0.86499995,1.0
+Trojan,known,0.31249994,7.8260345
+Trojan,known,1.01,1.0
+Trojan,known,0.53,8.258831
+Trojan,known,0.81999993,5.4078984
+Trojan,known,0.21250002,12.803109
+Trojan,known,1.625,1.0
+Trojan,known,0.2125,14.979575
+Trojan,known,0.9225,1.0
+Trojan,known,0.84999996,1.0
+Trojan,known,0.010000001,65.38516
+Trojan,known,0.30499995,9.039592
+Trojan,known,1.3249999,1.0
+Trojan,known,0.66249996,1.0
+Trojan,known,0.41000003,3.741651
+Trojan,known,1.4224999,1.0
+Trojan,known,0.65250003,1.0
+Trojan,known,0.2825,8.158913
+Trojan,known,0.9,1.0
+Trojan,known,0.36,8.121494
+Trojan,known,0.96999997,1.0
+Trojan,known,1.4649999,1.0
+Trojan,known,0.09,60.51209
+Trojan,known,0.6625,1.175807
+Trojan,known,0.61249995,1.0
+Trojan,known,0.22250001,17.47419
+Trojan,known,0.040000003,36.870422
+Trojan,known,0.505,1.4067405
+Trojan,known,1.3025,1.0
+Trojan,known,0.41000003,2.7754517
+Trojan,known,1.3725,1.0
+Trojan,known,1.1225,1.0
+Trojan,known,1.1225,1.0
+Trojan,known,0.44499996,3.4529228
+Trojan,known,0.785,1.0
+Trojan,known,0.745,1.0026691
+Trojan,known,1.7225001,1.0
+Trojan,known,0.45000002,2.168834
+Trojan,known,0.905,6.811698
+Trojan,known,0.49999997,21.048677
+Trojan,known,0.68000007,3.4005008
+Trojan,known,1.0525,1.0
+Trojan,known,0.3625,5.1251726
+Trojan,known,0.29250002,7.085186
+Trojan,known,0.5825,1.0515819
+Trojan,known,1.4649999,1.0
+Trojan,known,0.5725,17.6599
+Trojan,known,1.2025001,1.0
+Trojan,known,0.0625,32.247204
+Trojan,known,0.5125,13.665091
+Trojan,known,0.042500004,52.83016
+Trojan,known,0.97999996,1.0
+Trojan,known,1.81,1.0
+Trojan,known,0.5124999,1.4116908
+Trojan,known,1.2324998,1.0
+Trojan,known,0.505,1.1886187
+Trojan,known,0.565,27.40087
+Trojan,known,0.26500002,15.376367
+Trojan,known,1.0124999,1.0
+Trojan,known,1.2025,1.0
+Trojan,known,1.0025,3.1054618
+Trojan,known,0.765,1.0
+Trojan,known,0.40500003,3.200223
+Trojan,known,0.17000002,36.86993
+Trojan,known,1.2049999,1.0
+Trojan,known,0.0225,64.29352
+Trojan,known,0.45250002,2.1749926
+Trojan,known,0.0025000002,66.404274
+Trojan,known,0.5825,1.0
+Trojan,known,0.0725,28.438496
+Trojan,known,0.42499995,5.301752
+Trojan,known,0.7225,1.0
+Trojan,known,0.0625,36.86305
+Trojan,known,1.0825,1.0
+Trojan,known,0.98499995,1.0
+Trojan,known,0.43249995,24.20444
+Trojan,known,0.66249996,1.0
+Trojan,known,1.1524999,1.0
+Trojan,known,0.2825,9.480682
+Trojan,known,1.5325,1.0
+Trojan,known,0.085,35.113327
+Trojan,novel (LOTO),0.66249996,1.0
+Trojan,novel (LOTO),0.98499995,1.0
+Trojan,novel (LOTO),0.2725,8.792643
+Trojan,novel (LOTO),0.2125,12.961705
+Trojan,novel (LOTO),1.09,1.0
+Trojan,novel (LOTO),1.2850001,1.0
+Trojan,novel (LOTO),0.1525,18.643503
+Trojan,novel (LOTO),0.122499995,22.56215
+Trojan,novel (LOTO),1.4649999,1.0
+Trojan,novel (LOTO),0.9,1.0
+Trojan,novel (LOTO),0.31249994,29.84583
+Trojan,novel (LOTO),1.025,1.0
+Trojan,novel (LOTO),0.5625,40.69401
+Trojan,novel (LOTO),0.34249994,15.898811
+Trojan,novel (LOTO),0.1525,21.442698
+Trojan,novel (LOTO),0.96999997,1.0
+Trojan,novel (LOTO),0.040000003,36.870422
+Trojan,novel (LOTO),0.49249998,3.9098594
+Trojan,novel (LOTO),0.86499995,1.0
+Trojan,novel (LOTO),0.6925,1.0
+Trojan,novel (LOTO),0.6625,1.175807
+Trojan,novel (LOTO),0.87249994,1.0
+Trojan,novel (LOTO),0.81249994,1.0917909
+Trojan,novel (LOTO),0.16250001,17.41452
+Trojan,novel (LOTO),1.0625,1.0
+Trojan,novel (LOTO),0.2525,11.432657
+Trojan,novel (LOTO),0.74,1.0
+Trojan,novel (LOTO),0.73,1.0
+Trojan,novel (LOTO),1.04,1.0
+Trojan,novel (LOTO),1.0525,1.0
+Trojan,novel (LOTO),0.5825,1.0515819
+Trojan,novel (LOTO),0.0,67.36122
+Trojan,novel (LOTO),0.65,1.0
+Trojan,novel (LOTO),0.625,1.0
+Trojan,novel (LOTO),0.6025,5.7464833
+Trojan,novel (LOTO),1.025,1.0
+Trojan,novel (LOTO),0.965,1.0
+Trojan,novel (LOTO),0.765,1.0
+Trojan,novel (LOTO),0.8425001,1.0
+Trojan,novel (LOTO),0.020000001,47.232502
+Trojan,novel (LOTO),0.685,1.0
+Trojan,novel (LOTO),0.0725,42.552113
+Trojan,novel (LOTO),0.93249995,1.0
+Trojan,novel (LOTO),0.74,1.0
+Trojan,novel (LOTO),1.49,1.0
+Trojan,novel (LOTO),0.012500001,48.61469
+Trojan,novel (LOTO),0.5,1.2798274
+Trojan,novel (LOTO),1.5325,1.0
+Trojan,novel (LOTO),0.10250001,25.093586
+Trojan,novel (LOTO),0.22250001,11.308354
+Trojan,novel (LOTO),0.8125,1.0
+Trojan,novel (LOTO),0.17000002,36.86993
+Trojan,novel (LOTO),0.4,13.402502
+Trojan,novel (LOTO),1.3,1.0
+Trojan,novel (LOTO),0.5625,1.0182992
+Trojan,novel (LOTO),0.99249995,1.0
+Trojan,novel (LOTO),0.785,1.0
+Trojan,novel (LOTO),0.88250005,1.0
+Trojan,novel (LOTO),1.2125,1.0
+Trojan,novel (LOTO),1.0625,1.0
+Trojan,novel (LOTO),0.37,5.9127116
+Trojan,novel (LOTO),0.72,1.0
+Trojan,novel (LOTO),0.58,2.186369
+Trojan,novel (LOTO),0.5525,1.313387
+Trojan,novel (LOTO),1.2025001,1.0
+Trojan,novel (LOTO),0.13000001,26.871624
+Trojan,novel (LOTO),0.42499995,5.301752
+Trojan,novel (LOTO),0.112500004,33.257595
+Trojan,novel (LOTO),0.87249994,1.0
+Trojan,novel (LOTO),1.3625001,1.0
+Trojan,novel (LOTO),0.7249999,1.0
+Trojan,novel (LOTO),0.905,6.811698
+Trojan,novel (LOTO),0.88250005,1.0
+Trojan,novel (LOTO),0.2725,24.608862
+Trojan,novel (LOTO),0.20250002,15.599593
+Trojan,novel (LOTO),0.4225,2.960438
+Trojan,novel (LOTO),1.625,1.0
+Trojan,novel (LOTO),0.67249995,1.0
+Trojan,novel (LOTO),0.91249996,1.0
+Trojan,novel (LOTO),1.2025,1.0
+Trojan,novel (LOTO),0.9425,1.0
+Trojan,novel (LOTO),0.81999993,5.4078984
+Trojan,novel (LOTO),0.725,19.05588
+Trojan,novel (LOTO),0.5625,3.5375862
+Trojan,novel (LOTO),1.16,1.0
+Trojan,novel (LOTO),0.0625,31.500378
+Trojan,novel (LOTO),1.145,1.0
+Trojan,novel (LOTO),0.585,1.6303099
+Trojan,novel (LOTO),1.145,1.0
+Trojan,novel (LOTO),0.43249995,24.20444
+Trojan,novel (LOTO),0.5124999,3.6343043
+Trojan,novel (LOTO),0.91249996,2.5454772
+Trojan,novel (LOTO),0.9425,1.0
+Trojan,novel (LOTO),0.050000004,33.86494
+Trojan,novel (LOTO),1.0525,1.0
+Trojan,novel (LOTO),1.06,1.0
+Trojan,novel (LOTO),0.84999996,1.0
+Trojan,novel (LOTO),1.3025,1.0
+Trojan,novel (LOTO),0.685,1.0
+Trojan,novel (LOTO),0.86499995,1.0
+Trojan,novel (LOTO),0.26500002,15.376367
+Trojan,novel (LOTO),1.2049999,1.0
+Trojan,novel (LOTO),1.0625,1.0
+Trojan,novel (LOTO),0.505,1.4067405
+Trojan,novel (LOTO),0.55249995,1.0
+Trojan,novel (LOTO),0.65,1.0
+Trojan,novel (LOTO),0.80999994,1.334655
+Trojan,novel (LOTO),1.9024999,1.0
+Trojan,novel (LOTO),0.032500003,45.76734
+Trojan,novel (LOTO),0.66249996,1.0
+Trojan,novel (LOTO),0.41000003,3.741651
+Trojan,novel (LOTO),0.21250002,12.803109
+Trojan,novel (LOTO),0.7249999,1.0
+Trojan,novel (LOTO),0.58,1.0448847
+Trojan,novel (LOTO),1.3249999,1.0
+Trojan,novel (LOTO),0.24250002,20.605473
+Trojan,novel (LOTO),0.7225,1.0
+Trojan,novel (LOTO),1.0,1.0
+Trojan,novel (LOTO),0.0625,36.86305
+Trojan,novel (LOTO),0.36,49.403687
+Trojan,novel (LOTO),0.965,1.0
+Trojan,novel (LOTO),0.9225,1.0
+Trojan,novel (LOTO),0.012500001,55.546318
+Trojan,novel (LOTO),0.52000004,1.5837404
+Trojan,novel (LOTO),0.46249998,1.6981043
+Trojan,novel (LOTO),0.25,12.744559
+Trojan,novel (LOTO),0.26500002,8.503163
+Trojan,novel (LOTO),1.2324998,1.0
+Trojan,novel (LOTO),0.7924999,1.0
+Trojan,novel (LOTO),0.30249995,10.261148
+Trojan,novel (LOTO),1.0,1.0
+Trojan,novel (LOTO),0.98499995,1.0
+Trojan,novel (LOTO),0.65000004,14.053053
+Trojan,novel (LOTO),1.17,1.0
+Trojan,novel (LOTO),1.01,1.0821264
+Trojan,novel (LOTO),0.8324999,2.0779376
+Trojan,novel (LOTO),1.5625,1.0
+Trojan,novel (LOTO),0.145,17.965414
+Trojan,novel (LOTO),0.89000005,1.0
+Trojan,novel (LOTO),0.9025,1.0635076
+Trojan,novel (LOTO),0.80999994,26.096926
+Trojan,novel (LOTO),1.01,1.0
+Trojan,novel (LOTO),1.2025,1.0
+Trojan,novel (LOTO),0.1625,24.887636
+Trojan,novel (LOTO),0.48250002,1.5372138
+Trojan,novel (LOTO),0.34,4.9707775
+Trojan,novel (LOTO),0.9725,1.0
+Trojan,novel (LOTO),0.1825,14.418279
+Trojan,novel (LOTO),0.2525,41.90808
+Trojan,novel (LOTO),0.3125,13.213684
+Trojan,novel (LOTO),0.45250002,1.9055079
+Trojan,novel (LOTO),0.38250002,4.8611393
+Trojan,novel (LOTO),1.1524999,1.0
+Trojan,novel (LOTO),0.045,38.51543
+Trojan,novel (LOTO),0.025,54.232727
+Trojan,novel (LOTO),0.61,1.0
+Trojan,novel (LOTO),1.3924999,1.0
+Trojan,novel (LOTO),0.32499996,6.631858
+Trojan,novel (LOTO),0.112500004,22.071379
+Trojan,novel (LOTO),0.12499999,21.07828
+Trojan,novel (LOTO),0.065,51.33048
+Trojan,novel (LOTO),0.42499995,4.4408092
+Trojan,novel (LOTO),0.0025000002,57.939613
+Trojan,novel (LOTO),0.185,14.668484
+Trojan,novel (LOTO),0.31249994,7.8260345
+Trojan,novel (LOTO),0.76250005,1.0
+Trojan,novel (LOTO),0.78249997,1.0
+Trojan,novel (LOTO),0.97999996,1.0
+Trojan,novel (LOTO),0.185,19.497675
+Trojan,novel (LOTO),1.13,1.0
+Trojan,novel (LOTO),0.122499995,59.045036
+Trojan,novel (LOTO),1.5325,1.0
+Trojan,novel (LOTO),0.32499996,22.096216
+Trojan,novel (LOTO),0.7325,1.1285344
+Trojan,novel (LOTO),0.22250001,17.47419
+Trojan,novel (LOTO),0.76250005,1.0
+Trojan,novel (LOTO),0.8125,1.0
+Trojan,novel (LOTO),0.9425,1.0
+Trojan,novel (LOTO),0.9425,1.0
+Trojan,novel (LOTO),0.84999996,1.0
+Trojan,novel (LOTO),0.17000002,15.9332485
+Trojan,novel (LOTO),0.145,31.288853
+Trojan,novel (LOTO),1.7124999,1.0
+Trojan,novel (LOTO),0.61,1.0
+Trojan,novel (LOTO),0.6025,1.2362721
+Trojan,novel (LOTO),1.36,1.0
+Trojan,novel (LOTO),0.49999997,21.048677
+Trojan,novel (LOTO),0.20000002,22.799952
+Trojan,novel (LOTO),0.9250001,1.0
+Trojan,novel (LOTO),0.26,10.112607
+Trojan,novel (LOTO),1.3725,1.0
+Trojan,novel (LOTO),0.505,1.1886187
+Trojan,novel (LOTO),1.0825,1.0
+Trojan,novel (LOTO),0.565,27.40087
+Trojan,novel (LOTO),0.5625,1.0
+Trojan,novel (LOTO),1.17,1.0
+Trojan,novel (LOTO),1.6400001,1.0
+Trojan,novel (LOTO),1.0025,1.0
+Trojan,novel (LOTO),0.65000004,1.5120692
+Trojan,novel (LOTO),0.32000002,6.6128716
+Trojan,plugin:callbacks,0.86499995,1.0
+Trojan,plugin:callbacks,1.025,1.0
+Trojan,plugin:callbacks,1.4649999,1.0
+Trojan,plugin:callbacks,0.505,1.4072764
+Trojan,plugin:callbacks,0.20000002,12.876162
+Trojan,plugin:callbacks,1.3,1.0
+Trojan,plugin:callbacks,0.49999997,21.050032
+Trojan,plugin:callbacks,0.48499995,6.5847015
+Trojan,plugin:callbacks,0.74,1.0
+Trojan,plugin:callbacks,0.29,7.4861794
+Trojan,plugin:callbacks,0.2725,8.794507
+Trojan,plugin:callbacks,0.36,8.123369
+Trojan,plugin:callbacks,0.0725,28.44049
+Trojan,plugin:callbacks,0.87249994,1.0
+Trojan,plugin:callbacks,1.5425,1.0
+Trojan,plugin:callbacks,0.3725,6.0480094
+Trojan,plugin:callbacks,0.5125,13.666618
+Trojan,plugin:callbacks,0.20500001,14.215115
+Trojan,plugin:callbacks,0.53,1.7753206
+Trojan,plugin:callbacks,0.24250002,20.607302
+Trojan,plugin:callbacks,0.61249995,1.113307
+Trojan,plugin:callbacks,0.4,3.870115
+Trojan,plugin:callbacks,0.7225,1.0
+Trojan,plugin:callbacks,0.73,1.0
+Trojan,plugin:callbacks,0.65000004,14.054312
+Trojan,plugin:callbacks,0.36499995,4.3690434
+Trojan,plugin:callbacks,0.55249995,1.0032887
+Trojan,plugin:callbacks,1.625,1.0
+Trojan,plugin:callbacks,0.1325,38.89562
+Trojan,plugin:callbacks,0.20250002,15.60176
+Trojan,plugin:callbacks,0.30499995,9.041489
+Trojan,plugin:callbacks,0.76250005,1.0
+Trojan,plugin:callbacks,0.98499995,1.0
+Trojan,plugin:callbacks,0.625,1.0235462
+Trojan,plugin:callbacks,1.6199999,1.0
+Trojan,plugin:callbacks,0.64000005,2.5601184
+Trojan,plugin:callbacks,0.10250001,28.757614
+Trojan,plugin:callbacks,1.2125,1.0
+Trojan,plugin:callbacks,1.45,1.0
+Trojan,plugin:callbacks,0.010000001,49.92037
+Trojan,plugin:callbacks,0.41000003,3.7428544
+Trojan,plugin:callbacks,0.89000005,1.0
+Trojan,plugin:callbacks,1.0124999,1.0
+Trojan,plugin:callbacks,0.22500002,26.975132
+Trojan,plugin:callbacks,0.22500002,11.377614
+Trojan,plugin:callbacks,0.5,1.2802857
+Trojan,plugin:callbacks,0.38250002,4.8626466
+Trojan,plugin:callbacks,0.8000001,1.0
+Trojan,plugin:callbacks,0.68000007,3.401412
+Trojan,plugin:callbacks,0.32000002,6.6144648
+Trojan,plugin:callbacks,0.5625,3.5389037
+Trojan,plugin:callbacks,1.0,8.553302
+Trojan,plugin:callbacks,1.6400001,1.0
+Trojan,plugin:callbacks,1.025,1.0
+Trojan,plugin:callbacks,0.145,31.290516
+Trojan,plugin:callbacks,0.9250001,1.0
+Trojan,plugin:callbacks,0.2525,11.434692
+Trojan,plugin:callbacks,0.4225,8.777968
+Trojan,plugin:callbacks,0.0025000002,57.94027
+Trojan,plugin:callbacks,0.81999993,5.408673
+Trojan,plugin:callbacks,0.9025,1.0637541
+Trojan,plugin:callbacks,0.97999996,1.0
+Trojan,plugin:callbacks,0.65250003,1.0
+Trojan,plugin:callbacks,0.29250002,7.086877
+Trojan,plugin:callbacks,0.1,40.785316
+Trojan,plugin:callbacks,0.92499995,1.0
+Trojan,plugin:callbacks,1.01,1.0822726
+Trojan,plugin:callbacks,0.6025,5.7477074
+Trojan,plugin:callbacks,0.6925,1.0
+Trojan,plugin:callbacks,0.785,1.0
+Trojan,plugin:callbacks,1.1524999,1.0
+Trojan,plugin:callbacks,0.965,1.0
+Trojan,plugin:callbacks,1.025,1.0
+Trojan,plugin:callbacks,0.48250002,1.5378546
+Trojan,plugin:callbacks,0.76250005,1.6920345
+Trojan,plugin:callbacks,1.3249999,1.0
+Trojan,plugin:callbacks,1.2025,1.0
+Trojan,plugin:callbacks,0.012500001,55.54706
+Trojan,plugin:callbacks,1.4224999,1.0
+Trojan,plugin:callbacks,0.10250001,25.095573
+Trojan,plugin:callbacks,1.7124999,1.0
+Trojan,plugin:callbacks,0.34,4.9722614
+Trojan,plugin:callbacks,0.8449999,1.0
+Trojan,plugin:callbacks,0.745,1.0027206
+Trojan,plugin:callbacks,0.2125,12.963692
+Trojan,plugin:callbacks,1.0825,1.0
+Trojan,plugin:callbacks,1.0,1.0
+Trojan,plugin:callbacks,0.39249995,3.3456535
+Trojan,plugin:callbacks,0.21250002,12.805186
+Trojan,plugin:callbacks,0.80999994,1.3351948
+Trojan,plugin:callbacks,0.43249995,24.205776
+Trojan,plugin:callbacks,0.37,27.133757
+Trojan,plugin:callbacks,1.2049999,1.0
+Trojan,plugin:callbacks,0.065,30.005318
+Trojan,plugin:callbacks,1.5325,1.0
+Trojan,plugin:callbacks,0.67249995,1.0
+Trojan,plugin:callbacks,0.41000003,2.7765167
+Trojan,plugin:callbacks,0.64250004,23.554634
+Trojan,plugin:callbacks,0.32500002,7.744427
+Trojan,plugin:callbacks,0.5525,4.510964
+Trojan,plugin:callbacks,0.87249994,1.0
+Trojan,plugin:callbacks,0.050000004,44.211613
+Trojan,plugin:callbacks,0.0225,42.96582
+Trojan,plugin:callbacks,0.585,10.617086
+Trojan,plugin:callbacks,0.965,1.0
+Trojan,plugin:callbacks,0.48999998,43.944286
+Trojan,plugin:callbacks,0.13000001,26.873484
+Trojan,plugin:callbacks,0.042500004,35.406105
+Trojan,plugin:callbacks,1.805,1.0
+Trojan,plugin:callbacks,0.185,14.670489
+Trojan,plugin:callbacks,0.5625,1.0
+Trojan,plugin:callbacks,0.25,9.733294
+Trojan,plugin:callbacks,0.2825,8.160634
+Trojan,plugin:callbacks,0.26500002,8.504975
+Trojan,plugin:callbacks,0.30249995,10.263183
+Trojan,plugin:callbacks,0.48499995,1.952077
+Trojan,plugin:callbacks,0.09,60.51209
+Trojan,plugin:callbacks,0.81249994,1.092082
+Trojan,plugin:callbacks,0.44499996,16.61766
+Trojan,plugin:callbacks,0.3625,5.126615
+Trojan,plugin:callbacks,0.012500001,48.615887
+Trojan,plugin:callbacks,0.74,1.0
+Trojan,plugin:callbacks,0.040000003,63.12438
+Trojan,plugin:callbacks,0.73,1.0
+Trojan,plugin:callbacks,0.43249995,4.3477745
+Trojan,plugin:callbacks,0.1325,19.5483
+Trojan,plugin:callbacks,0.042500004,52.830868
+Trojan,plugin:callbacks,1.6400001,1.0
+Trojan,plugin:callbacks,0.16000001,18.861277
+Trojan,plugin:callbacks,0.61,1.0
+Trojan,plugin:callbacks,0.89000005,1.0
+Trojan,plugin:callbacks,0.3625,7.006065
+Trojan,plugin:callbacks,1.1225,1.0
+Trojan,plugin:callbacks,0.20500001,44.10283
+Trojan,plugin:callbacks,0.17000002,36.87129
+Trojan,plugin:callbacks,1.0625,1.0
+Trojan,plugin:callbacks,1.3625001,1.0
+Trojan,plugin:callbacks,0.45000002,5.3591857
+Trojan,plugin:callbacks,0.32499996,6.633561
+Trojan,plugin:callbacks,0.725,1.4154103
+Trojan,plugin:callbacks,0.76250005,1.0
+Trojan,plugin:callbacks,0.99249995,1.0
+Trojan,plugin:callbacks,0.9425,1.0
+Trojan,plugin:callbacks,0.31249994,7.8278484
+Trojan,plugin:callbacks,0.125,23.309494
+Trojan,plugin:callbacks,1.2025001,1.0
+Trojan,plugin:callbacks,1.0525,1.0
+Trojan,plugin:callbacks,1.1524999,1.0
+Trojan,plugin:callbacks,1.2625,1.0
+Trojan,plugin:callbacks,0.91249996,2.5458853
+Trojan,plugin:callbacks,0.625,2.7002077
+Trojan,plugin:callbacks,1.16,1.0
+Trojan,plugin:callbacks,0.52000004,1.584355
+Trojan,plugin:callbacks,0.64000005,37.003582
+Trojan,plugin:callbacks,0.7325,9.707622
+Trojan,plugin:callbacks,0.5625,1.0184183
+Trojan,plugin:callbacks,0.66249996,1.0
+Trojan,plugin:callbacks,0.2825,9.48246
+Trojan,plugin:callbacks,0.050000004,33.866768
+Trojan,plugin:callbacks,1.1125,1.0
+Trojan,plugin:callbacks,1.9024999,1.0
+Trojan,plugin:callbacks,0.42499995,5.3033404
+Trojan,plugin:callbacks,1.7124999,1.0
+Trojan,plugin:callbacks,0.31249994,29.847187
+Trojan,plugin:callbacks,0.4,13.404171
+Trojan,plugin:callbacks,0.725,19.05681
+Trojan,plugin:callbacks,0.76250005,1.0
+Trojan,plugin:callbacks,1.0025,3.1057148
+Trojan,plugin:callbacks,0.34249994,15.900543
+Trojan,plugin:callbacks,1.17,1.0
+Trojan,plugin:callbacks,0.25,12.746662
+Trojan,plugin:callbacks,0.080000006,30.547628
+Trojan,plugin:callbacks,1.3924999,1.0
+Trojan,plugin:callbacks,0.25,13.073675
+Trojan,plugin:callbacks,0.98499995,1.0
+Trojan,plugin:callbacks,1.36,1.0
+Trojan,plugin:callbacks,1.09,1.0
+Trojan,plugin:callbacks,0.92499995,1.0060636
+Trojan,plugin:callbacks,0.99249995,1.0
+Trojan,plugin:callbacks,0.9425,1.0
+Trojan,plugin:callbacks,0.845,1.0
+Trojan,plugin:callbacks,0.93249995,1.0
+Trojan,plugin:callbacks,1.2025001,1.0
+Trojan,plugin:callbacks,0.8324999,2.0784323
+Trojan,plugin:callbacks,1.45,1.0
+Trojan,plugin:callbacks,0.49249998,3.9112315
+Trojan,plugin:callbacks,0.78249997,1.0
+Trojan,plugin:callbacks,0.86499995,1.0
+Trojan,plugin:callbacks,1.1225,1.0
+Trojan,plugin:callbacks,0.5125,2.384064
+Trojan,plugin:callbacks,0.17000002,15.935373
+Trojan,plugin:callbacks,0.13000001,20.389946
+Trojan,plugin:callbacks,0.6025,1.236721
+Trojan,plugin:callbacks,0.8125,1.0
+Trojan,plugin:callbacks,1.4649999,1.0
+Trojan,plugin:callbacks,0.045,38.51702
+Trojan,plugin:callbacks,0.1825,14.4203615
+Trojan,plugin:callbacks,0.010000001,65.38516
+Trojan,plugin:callbacks,0.46249998,2.5296643
+Trojan,plugin:callbacks,1.2324998,1.0

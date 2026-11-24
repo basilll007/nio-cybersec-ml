@@ -1,0 +1,52 @@
+{
+  "constants": {
+    "beta0": 0.5,
+    "firewall_eff": 0.8,
+    "gamma_base": 0.05,
+    "gamma_gain": 0.45,
+    "temp": 0.02,
+    "lam": 0.05,
+    "mu": 0.5,
+    "adam_lr": 0.05,
+    "iters": 300,
+    "z_init": 0.0,
+    "default_policy": [
+      0.3,
+      0.4,
+      0.5
+    ],
+    "grid_n": 21,
+    "tv_windows": 10,
+    "tv_smooth": 0.05
+  },
+  "weak_detector": "plugin:callbacks",
+  "lambdas": [
+    0.01,
+    0.02,
+    0.05,
+    0.1,
+    0.2
+  ],
+  "mus": [
+    0.1,
+    0.5,
+    1.0,
+    2.0
+  ],
+  "qs": [
+    1.0,
+    0.9,
+    0.75,
+    0.5,
+    0.25,
+    0.1
+  ],
+  "n_configs": 99,
+  "seconds": {
+    "main_adam_300it_batched": 17.597901100001764,
+    "pareto_batched": 29.03652989998227,
+    "time_varying": 46.46526409999933,
+    "detector_quality": 15.855483299994376
+  },
+  "assumptions": "beta0, firewall efficacy 0.8, gamma = 0.05 + 0.45*x2*TPR, lambda, mu, temp=0.02 and q are illustrative assumptions, not measured network properties"
+}
